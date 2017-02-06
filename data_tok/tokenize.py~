@@ -1,0 +1,14 @@
+from nltk import *
+
+inpf = open('turkish.100', 'r')
+outf = open('turkish.100.tok','w')
+
+data = inpf.read().decode('utf-8')
+sents = data.split('\n')
+
+for s in sents:
+	tokens = nltk.word_tokenize(s)
+	outf.write('\t'.join(tokens)+'\n')
+
+
+

@@ -1,0 +1,72 @@
+
+Class: art	
+Test Score: 80.744186046512%	
+Precision: 0.77888328539552	
+Recall: 0.87090909090909	
+F1-Score: 0.82232392112516	
+Class: arts	
+Test Score: 73.482428115016%	
+Precision: 0.73431547979665	
+Recall: 0.74683544303797	
+F1-Score: 0.74010709406436	
+Class: biology	
+Test Score: 84.838709677419%	
+Precision: 0.84342411629234	
+Recall: 0.86382978723404	
+F1-Score: 0.85306563098052	
+Class: business	
+Test Score: 67.662337662338%	
+Precision: 0.68896287023474	
+Recall: 0.67457627118644	
+F1-Score: 0.68088529242872	
+Class: creativity	
+Test Score: 72.314814814815%	
+Precision: 0.7195382164137	
+Recall: 0.73333333333333	
+F1-Score: 0.72615795701114	
+Class: culture	
+Test Score: 61.72131147541%	
+Precision: 0.63634776464408	
+Recall: 0.63307086614173	
+F1-Score: 0.63045575410379	
+Class: design	
+Test Score: 66.3139329806%	
+Precision: 0.64794917306555	
+Recall: 0.75395189003436	
+F1-Score: 0.69667615930324	
+Class: economics	
+Test Score: 84.230769230769%	
+Precision: 0.83573654888916	
+Recall: 0.865	
+F1-Score: 0.84990632422614	
+Class: education	
+Test Score: 79.688715953307%	
+Precision: 0.78866795576184	
+Recall: 0.82325581395349	
+F1-Score: 0.80456408456408	
+Class: entertainment	
+Test Score: 71.652173913043%	
+Precision: 0.70037912481185	
+Recall: 0.78902953586498	
+F1-Score: 0.74190961312169	
+Class: health	
+Test Score: 76.728971962617%	
+Precision: 0.77664716751129	
+Recall: 0.7651376146789	
+F1-Score: 0.77063706245134	
+Class: politics	
+Test Score: 78.795180722892%	
+Precision: 0.78538082807217	
+Recall: 0.8031746031746	
+F1-Score: 0.7937187558373	
+Class: science	
+Test Score: 67.909604519774%	
+Precision: 0.69622196781151	
+Recall: 0.69189189189189	
+F1-Score: 0.69219540511501	
+Class: technology	
+Test Score: 65.443037974684%	
+Precision: 0.66130428474383	
+Recall: 0.7104	
+F1-Score: 0.68426853276003	
+Average f1-Score: 0.7490622562209	
