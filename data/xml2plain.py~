@@ -1,0 +1,7 @@
+import xml.etree.ElementTree as ET
+tree = ET.parse('ted2013.en-tr.xliff')
+root = tree.getroot()
+for sentence in root.findall('trans-unit'):
+	source = country.find('source').text
+	print source
+

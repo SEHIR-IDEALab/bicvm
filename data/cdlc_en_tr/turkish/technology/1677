@@ -1,0 +1,39 @@
+Yaklaşık bir buçuk yıl önce TED 2007'de Sanal Dünya hakkında bir konuşma yapan Stephen Lawler beni Microsoft'un online haritalama çalışması olan Bing Maps'in mimarı olmam için davet etmişti. Son iki buçuk yıldır, online haritaların çalışma şekillerini yeniden tanımlamak için çok çalıştık. Ve gerçekten de buna alıştığımız haritalama ve yön sistemlerinden çok farklı bir açıdan bakıyoruz.
+Şimdi, bu haritalama teknolojisi ile ilgili ilk dikkatinizi çekecek şey yakınlaştırma (zoom) ve kaydırma fonksiyonlarindaki akıcılık, ki Seadragon'a aşinaysanız bu oradan gelen bir özellik.
+Haritalama, elbette sadece kartografi ile ilgili degil aynı zamanda hayal gücü ile ilgili. Böylece, belirli bir seviyenin ötesine zoom yaptığımizda bu Sim City benzeri 45 derecelik bir sanal bir görüntü haline dönüşüyor. Bu görüntü, her bir yönden ayrı ayrı gözlenebilir ve size şehrin 3 Boyutlu yapısını, tüm bina yüzlerini gösterebilir. Şimdi, bu alanı, bu üç boyutlu ortamı tüm farklı uygulamaların kendini gösterebileceği bir tuval olarak düşünebiliriz. Ve haritanın yönleri de bunlardan sadece biri.
+Eğer bunun üzerine tıklarsanız, daha önceden bu ürün satışa çıkardıktan sonraki birkaç ay içinde sisteme koyduklarımızı görebilirsiniz. Örneğin, Haiti'deki felaketten birkaç gün sonra deprem öncesi ve sonrası uydu fotoğraflarını içeren bir haritamız vardı. Size göstermem vakit darlığı nedeniyle mümkün değil ama bir tanesi bölgesel blogları gerçek zamanlı olarak tarıyarak bloglarda yer alan ve bahsedilen bu haber ve hikayeleri haritalandırıyor. Gerçekten harika.
+Ama ben size daha keyifli olanlarından birkaçını göstereceğim.
+Biliyorsunuz, görüntü aslında gökyüzünde bitmiyor. Bu yeşil balonlar kullanıcıların yarattığı foto-sentetik (photosynth) görüntüler. Bunların da detayına girmeyeceğim, ama foto-sentetikler ve harita bütünleşmiş. Mavi renkli görülen yerler ise yerdeki çekilmiş görselleri de eklediğimiz alanları gösteriyor.
+Şimdi öyle ki, aşağıya indiğinizde
+(Alkışlar)
+Teşekkürler. Aşağıya inip bu tip panaromik bir görüntü gördüğünüzde ilk fark edeceğiniz şey bunun yanlızca bir resimden farklı olduğu. bu üç boyutlu şehrin yukarıdan görünüşünde olduğu gibi bu ortamda da aynı üç boyutlu yapı mevcut, öyleyse, eğer herhangi bir cismi yakından görmek için üzerine tıklarsam, ki aynen göründüğü gibi olan bu geçiş bu modelin 3 boyutlu algılanışının ardındaki geometrinin bir fonksiyonu aslında.
+Şimdi size bizim Flickr'deki arkadaşlarla birlikte üzerinde çalıştığımız eğlenceli bir uygulama göstereceğim. Bu uygulama, Flickr tarafından geo-register edilmiş görüntüleri foto-sentetik benzeri bir süreç ile bizim görüntülerimizle bağlantılıyor, böylece -- Şu anda göstermek istediğim resmin bu olduğundan çok emin değilim, ama --
+(Kahkahalar)
+Ama dikkat edin -- burası elbette çok popüler bir turistik mekan, ve burada pek çok resim çekilmiş, bu resimlerin her biri de farklı zamanlarda çekilmiş. Bu resim saat beş civarında çekilmiş. İşte bu Flickr resmi, bizim görüntümüz bu. Böylece kalabalıklar tarafından teker teker oluşturulan bu görüntülerin derinlemesine birleşerek aslında haritayı meydana getirdiğini görebilirsiniz.
+(Alkışlar)
+Teşekkürler.
+(Alkışlar)
+Bunun ilginç olmasının birkaç nedeni var. ve bunlardan biri elbette zamanda yolculuk. Ben size burada yer alan bazı harika tarihi görüntüleri göstermeyeceğim ama aralarında içinde at ve at arabaları olan resimler de var. Bunun müthiş olan yanı şu ki bu, bizim dünyayı görsel olarak betimlememizi diğer kullanıcılardan gelen katkılarla artırmakla kalmıyor, aynı zamanda da artırılmış gerçekliğin temellerini de oluşturuyor, ve bu size biraz sonra daha detaylı göstereceğim bir şey.
+Şimdi iç mekanlara geçtim, bu da oldukça ilginç. Tamam, dikkat edin, burada bir tavan var. Pike Place Market'in içindeyiz. Bu, bizim sırt çantamızda taşıdığımız bir kamera ile yapabileceğimiz bir şey. Öyleyse, arabaların tepesindeki kameralarla sadece sokakları görüntülemekle kalmıyoruz, iç mekanları da görüntüleyebiliyoruz. Ve daha da önemlisi, sadece durgun resimlerle değil, video çekimleri ile de benzer bir şey yapmamız mümkün.
+Şimdi, ilk defa, canlı olaral bir şey deneyeceğiz. ve bu gerçekten de, çok korkutucu.
+(Gülüşmeler)
+Tamam.
+(Telefon zili)
+Tamam arkadaşlar, orada mısınız?
+(Gürültü)
+Tamam. Düğmeye basıyorum, Canlı yayındayım. Tamam. Hadi bakalım. Bu gördükleriniz, Pike Place Market'tekiler bizim arkadaşlarımız,
+(Alkışlar)
+Şu anda canlı olarak bunu yayınlıyorlar. Tamam, George, köşedeki markete yaklaşabilir misin? İlginç bir şey göstermek istiyorum. Hayır, hayır, diğer tarafa. Evet, evet, köşeye doğru, köieye doğru. Yok, henüz sizi göstermek istemiyorum. Tamam tamam, köşeye geri dönelim, köşeye, köşeye. Tamam, neyse boşver.
+Size bu görüntünün üzerindeki işaretlenmiş noktaları göstermek istiyorum çünkü bu noktalar sanki siz oradaymışsınız gibi hissetmenizi sağlayan şeyler.. bunu çöyle düşünebilirsiniz -- bu, artırılmış gerçeklik için atılan ilave bir adım.
+Arkadaşlar siz ne yapıyorsunuz -- ah, pardon.
+(Kahkahalar)
+İki değişik şey yapıyoruz... Tamam, artık kapatıyorum. Burada iki değişik şey yapıyoruz. Bunlar birinde, gerçek olanı alıp...
+(Gülüşmeler)
+Tamam, bir dakika izin verin, ekibe teşekkür edeyim. Bunu ortaya koyma konusunda harika bir iş çıkardılar.
+(Alkışlar)
+Şimdi onlardan ayrılarak tekrar dışarıya çıkıyorum Dışarı doğru yürürken, şunu belirtmek istiyorum şu an bunu tele-sunum için yaptık ama benzer şekilde bunu anında artırılmış gerçeklik için de kullanabilirsiniz. Bunu anında kullanmaktan kastım dünya ile ilgili tüm verilere ve meta-verilere anında ulaşabilecek olmanız. Öyleyse burada, bir adım daha ileri giderek bunu yayınlıyoruz. Bu arada, bu yayın, marketten 4G ağı aracılığıyla yapıldı.
+Tamam, geçtiğimiz yıllarda Microsoft tarafından verilen en az bir TED sunumu vardı. Bu sunum Curtis Wong'un yaptığı Dünya Çapında Teleskop (WorldWide Telescope) sunumu. Şimdi, pazar yerindeki uzun bir gün sonunda adet olduğu üzere çöp alanını geçerek, mola veriyor ve bu sırada gök yüzüne bakıyoruz. Dünya Çapında Teleskop'un bizim haritalarımıza entegrasyonu budur.
+(Alkışlar)
+Bu güncel -- teşekkürler-- Bu şu an, ama zamanı değiştirecek olursak, farklı zamanlarda gökyüzünün neye benzediğini görebiliriz, böylece farklı zamanlar ve farklı tarihlerle ilgili pek çok detaylı bilgiye erişebiliriz. Ay'ı gökyüzünde biraz daha yukarıya çıkaralım. tarihi değiştirebiliriz. Ay'a zoom yapmak ( yakınlaştırmak) istiyorum. Bu, gökyüzünün astronomik olarak Dünya ile bütünleşmiş tam bir temsili.
+Tamam, vaktimi aştım artık durmam lazım. Çok çok teşekkür ederim.
+(Alkışlar)

@@ -1,0 +1,47 @@
+1
+0 W=+ACAK
+0 W=+ACAKIm
+0 W=+r
+1 W=+ACAK R1==bir
+1 W=+ACAK R1==olan
+0 W=~geleceði
+1 W=+ACAK R1=+ArI
+0 W==geleceðini
+1 R1=+lDA
+1 W=+ACAK L1=+lArInI
+1 W=+ACAK R1==bu
+1 R1==kadar
+0 W=~gelecek
+0 W=+ACAK L1=+lArI
+1 W=+nDIrACAK
+1 W=+ACAKIDIr
+0 W=+ACAKlArDI
+0 W==geleceðine
+1 R1=+ImDA
+1 W==oluþturacak
+1 R1=+lArIn
+0 W=+AlACAKIn
+1 R1=+ADA
+1 W=+DDIrACAK
+1 L1=+mInA
+0 W=+nABIlACAK
+0 W=+ACAK R1==bir W=+mAyACAK
+0 W==geleceðinden
+1 W==edecekler
+1 L1=+mADI
+0 W=+ACAKlArmIþ
+1 W=+AlDACAK
+1 L1=+CIn
+0 W=+lABIlACAK
+1 W=+ACAK L1=+DlAKA
+1 W=+ACAK L1=+mAsInI
+0 W=+ACAK L1=+mAsInI R1=<S>
+0 L1=+jIlArInI
+1 L1==adýna
+1 W=+AKIþDIrmAyACAK
+1 W==kalabilecek
+0 L1=+'DAKI
+1 L2==O
+1 L1=+DmAn
+1 W=+AKDIrACAK
+1 W==seçilecek

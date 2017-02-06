@@ -1,0 +1,169 @@
+0
+1 R1=<S>
+1 W=+KAn
+1 W=+Ir
+1 W=+z
+1 W=+sA
+1 R1==.
+0 W=~yýlmaz
+1 W=+m
+0 W=+ImIz
+0 W=~gelir
+1 W=+AK
+0 W==ederken
+1 W=+yAr
+0 W=+ArI
+1 W=+DI
+1 W=+DAr
+0 R1=<S> W=+IKArDI
+1 W=+sAn
+0 W=+IDArKAn
+1 W=+mAzlAr
+0 W=+DAr W=UCFIRST
+1 W=+IrAr
+0 W=+IKArKAn
+0 W=+ACInIlmAz
+0 W=~gelirken
+0 W==dolar
+1 R1=<S> W=~gelir
+1 W=+sIn
+0 W==Korkmaz
+1 W=+BAr
+1 W=+IlIrlAr
+0 W=+yArDI
+0 W=~okur
+0 W=+DAr L1==,
+0 W=+önmAz
+1 W=+DIK
+1 W=+Iþ
+1 W=='
+1 W=~sorar
+1 W=+IþAr
+0 W==geçerken
+1 W=+ADArI
+1 W=+öylAr
+0 W=+IþInIrKAn
+0 W==Durmaz
+0 W==okurken
+0 W==çekerken
+1 W==der
+1 W=+DArlAr
+0 W=+nlAr
+0 W=+oyArKAn
+1 W=+AzDAn
+0 W=+DIlAr
+0 R1==için
+0 W=+ArAr
+1 W=~gelir L1=+InA
+0 W=+DAr L1=<S>
+0 W=+rmAyIz
+0 W==yerdim
+1 W==bakar
+1 W=+IrlIKI
+0 W=+ABmAyIz
+0 W=+ArInDA
+0 L1=+IsAyIn
+0 W=+önArKAn
+0 W==Umarým
+0 W==dirsek
+0 W=~yerim
+1 W=+IrCAsInA
+1 W=+KrIlAr
+1 W=~kaçar
+1 R1=+DAmAz
+1 W=+rIrlAr
+0 W=+sArIm
+0 W==giderdi
+0 W==yerken
+0 W==çýkarýn
+1 L1==Altan
+0 W=+ArInIz
+0 W=+ImAm
+0 W==tutar
+1 W==açýklar
+1 W==yaþar
+1 W=+oKAr
+1 W=+þIrlAr
+0 W=+ArInDAn
+1 W=~gelir R1==mi
+0 R1=<S> W=+AlAr
+0 R1=<S> W=UCFIRST
+0 L2=+AnAnlArI
+0 W=+ACInIlmAzDI
+0 W=+IzArDI
+0 W=+ölInmAz
+0 W==Güvenilir
+0 W==etmem
+0 W==yazarken
+0 W==yazarým
+1 L2=+AnK
+1 R1=+IKmAz
+1 W=+ADArlIK
+1 W=+IrlIKInI
+1 W=+IyArlIK
+1 L1=+IKImADI
+1 R1==gelmez
+1 W==yakar
+1 W=+ABArlAr
+0 W=+AKIþmAz
+0 W=~dersin
+1 W=+AnAr
+1 W=~saðlar
+1 W=+AKIllAr
+1 W==derler
+0 W==iþler
+0 W==deðer
+0 W=+mlAr
+0 W=+KAn L1=+ImIzDAn
+0 L1=+ArIm'In
+0 W=+IrlArIm
+0 W=+nlArIm
+0 W=+olArKAn
+0 W=+rIþmAm
+0 W=+yArDIK
+0 W==açarken
+0 W==derdim
+0 W==eserken
+0 W==uçarken
+0 W==þaþmaz
+1 L1==bizce
+1 L2=+ImlArIm
+1 R2=+IjDA
+1 W=+ArþIlAr
+1 W=+IyArlIKI
+1 W=+mAr
+1 W=+þIDlAr
+1 W==güler
+1 W==korkar
+0 L2=+IþmAsI
+0 W=+IKmAzI
+1 W=+AlKAr
+1 W=+IyArlAr
+1 W==bekler
+1 W==belirler
+0 W=+ABmAm
+0 W=+örInIr
+1 W=+Ir R1=="
+1 W=+ADIrlAr
+1 W==arar
+1 W==çalar
+1 W==baðlar
+0 R2==olsun
+1 W==eyler
+0 R2==milyon
+1 W==olurlar
+0 W=+ArsI
+0 W=+ClAr
+0 W=~eðer
+0 W==yer
+0 W=+ArInA
+0 R1=<S> W=+DmAyIz
+0 R1=<S> W=+KArDIm
+0 W=+AKIllAr L1=+KlI
+0 W=+DAr R2=+IyorlAr
+0 W=+m R1==ne
+0 W=+sA L1=+zAl
+1 W=~gelir R2=+Iz
+0 W=+DI L1=+DAyA
+1 W=+Ir L1=+B
+1 R1=<S> L1=+rInI

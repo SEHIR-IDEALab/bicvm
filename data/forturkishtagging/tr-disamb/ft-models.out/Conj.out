@@ -1,0 +1,67 @@
+1
+0 W=~ile
+0 W=~ne
+0 W=+AKIl
+0 W=+ArAK
+0 W=+AhI
+1 W=+AKIl R1=LOWER
+0 W=+AKIl R1==mi
+0 W==Örneðin
+0 W==hatta
+0 R1=+sDAmAz
+1 W=+AKIl L1=="
+1 W=+AKIl L1=APOS1
+0 W=+AKIl R1=+DI
+1 W==Örneðin L2=+r
+1 W=+AKIl R2=+ynI
+0 W=+mmA
+1 W=+AKIl R1=UCFIRST
+1 W==hatta R2=+DA
+1 W=~ile L1=+yADlArI
+1 W=~ile R1=+AmI
+0 R1==midir
+1 L1=+AIzI
+1 W=+AKIl L1==ile
+1 W=+AKIl R2=+lIK
+1 L1=+AIrI
+1 L1=+ozIDIf
+1 L1==Yasa
+1 L2==eþit
+0 W=+Ah
+1 L2==yalnýz
+1 L1=+KAlArI
+1 R1==diðer
+1 W=+AKIl R1=+0
+1 W=+AKIl R2=+AKI
+1 W=+AKIl L1=+lArAK
+1 W==hatta R1=+InI
+1 W=~ile R1=+AnIn
+0 L2=+AlIrDDI
+0 L2=+AlIþACAK
+0 L2=+AþAmIyor
+0 L2=+AþIDIKInI
+0 L2=+DADIKInI
+0 L2=+lAmIþlAr
+0 R1==misiniz
+0 R2=+ABIDAlIzmA
+1 L1=+ADAylArI
+1 L1=+ADKIn
+1 L1=+AKIDI
+1 L1=+ArBIlAr
+1 L1==Akan
+1 L1==Deðerler
+1 L1==adlarý
+1 L1==Çetin
+1 L1=~bursu
+1 L2=+nönI
+1 R1==DÝYOR
+1 R2=+AlyA'nIn
+1 R2=+IlIBI
+1 R2==adi
+1 L1=+vAnI
+1 L1==Malta
+1 L1==fiyatý
+1 L2==cep
+1 R1==sanýklarýn
+1 R2=+rAnlI
+0 L1==Çünkü

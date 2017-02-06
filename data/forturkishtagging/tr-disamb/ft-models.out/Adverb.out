@@ -1,0 +1,388 @@
+0
+1 W=+ArAK
+1 W=+n
+1 W=+A
+1 W=+B
+0 W=+A L1=+DAn
+1 W=~çok
+0 W=~ne
+0 W==önce
+0 W=+ADAn
+0 W=~böyle
+1 W=+DI
+1 W==hiç
+0 W=+IKDA
+1 W=+DIK
+1 W=+KI
+1 W=+D
+1 W==geri
+1 W=~pek
+0 W=+AzlA
+1 W=~zaten
+0 W=~hatta
+1 W=+AnIz
+1 W=+AKlI
+0 W=~öyle
+1 W==daha
+1 W=+lIK
+0 W=+IrKCA
+0 W=~çok R1=+DA
+0 W=~oysa
+1 W=~sýk
+0 W=+AþDA
+0 L1=~pek
+0 W=+AnCA
+0 W=+A R1==:
+0 W=~düþünce
+0 W=+sIzCA
+0 W=~erken
+1 W=+l
+1 W=='
+0 W=~çok L1=+AhA
+0 W=~ekip
+1 W=+f
+0 W=+l L1=+A
+1 W=+AKIm
+1 W=~ne R1=+rsA
+0 W=+lICA
+1 W=~ne R2=<S>
+0 W=+nCAsInA
+0 W==açýkça
+0 W=+DCA
+0 W=+AþDAn
+0 W=+IzlArCA
+0 W==Ne
+0 W=~ne R1=<S>
+1 W=+ArCI
+1 W==bile
+0 W=+yICA
+1 W=+nrADAn
+0 W=+ABCA
+1 W=+ACAsI
+0 W=~çok R1==,
+0 W=~kayýp
+0 W=+IhAyAD
+1 W=+lArI
+0 W=~çok R2==var
+1 W=+A L1=+DAn W=+InCA
+0 W==Edip
+1 W=+lADAn
+0 W=+IsACA
+0 W=~çok L1=~bir
+0 W==Akça
+0 W=+ImInA
+1 W=~öyle L1==de
+0 W=+rACA
+1 W=+AnI
+0 W=+CDAn
+0 W=~ayýp
+1 W=+hI
+1 W=+y
+0 W=+lCA
+0 W=+oBDAn
+0 W=~sýk L1=+oK
+1 W=~ne R2==.
+0 W==Ne
+0 W=+AKCA
+0 W=+zInCA
+1 R1=+ArsI
+0 W=+IrCA
+0 W=+AlIylA
+0 W=~çok R1=+ArDIlI
+1 W=~ne R2==:
+0 W=~çok R1=+lAr
+0 W=+AyAKI
+0 W=+mACA
+0 W==onca
+1 W=+AKKAK
+1 W=~bari
+0 W=~çok R1=+AD
+0 W=+lIKCA
+0 W==düþünceye
+0 W==çekince
+1 W==derhal
+0 W=~sýk L1=+AhA
+1 W=+yICA L1=+In
+0 W=~çok R1=="
+0 W=+l R1=+lIyor
+0 W=+l R1=<S>
+1 W=~çok L1=+AhA L2=+I
+0 W=~çok R1=+CI
+0 W=+AzlACA
+0 W=+DKAn
+0 W=+IrICA
+1 W=+AsIz
+1 W=+lAlI
+0 W=+orCA
+0 W=+lAyCA
+0 W=~kalýp
+1 W=+yrICA
+1 W==sadece
+0 W=+n R1==gelen
+0 R1==þükür
+0 W=+IþIn
+0 W=+sDACA
+0 W=~dünden
+1 R1==denli
+1 W=+AhAsI
+0 L1==enine
+0 W=~candan
+0 W=~ille
+1 W=+DIKCA
+1 W==yine
+0 W=+AnI R1==,
+0 W=+l L1==Bu
+0 W=~çok R1=<S>
+0 W=~çok R1==düþük
+0 W=~ne R1=+AmAK
+0 W=~çok R1=+yA
+1 W=~ne R1=+Al
+0 W=+AvrAlArCA
+0 W=+KlArCA
+0 W==Þimdiden
+1 W==yýlmadan
+1 R1=+ArsInI
+1 W=DIGIT1
+0 W==sýkça
+1 R1==baðýmsýz
+1 W==yalnýzca
+0 W==iþte
+1 W==iþte R1==bu
+1 W==iþte R1==o
+1 W=+sIylA
+1 W==mutlaka
+0 R1==þey
+0 W=+l L1=+IsI
+0 W=~sýk L1=~en
+1 W=+AzlA L1=+InI
+1 W=+l L1==ve
+1 W=~çok L1==bize
+0 W=~çok R1=+orI
+1 W=~öyle L2=+mA
+0 W=~çok R1=+AyI
+1 W=+A L1=+AfInDAn
+0 W=+l R2=+Iyor
+0 W=~ne R1=+rDI
+1 W=~ne R1=+oK
+0 W==Ne
+0 R1=+ACmADAn
+0 R1==bunlardan
+0 W=+AKKIylA
+0 W=+IlKInCA
+0 W==karýnca
+1 R1=+rsAK
+1 W=+AAnAlAyh
+1 W=+ADIz
+1 W=+AllI
+1 W=+BAyDIr
+1 W=+sADAn
+1 R1=+IlDIKInDA
+1 R1=+zAKDA
+1 R1==eþyada
+0 R1==diyorsunuz
+1 R2=+ACImlArA
+0 W=+IrAKDAn
+1 L2=+ABIlACAKInI
+0 W==nice
+1 R1=+ACAKsInIz
+1 R1==rahat
+0 W==gene
+1 W==gene L1=~ama
+1 W=+lAsInA
+1 R1==fazla
+1 W==özellikle
+0 W=+l R2=+IDIm
+0 W=+lArI L2=+In
+0 W=~çok R1=+ADIKInI
+0 W=~çok R1=+AmAn
+0 W=~çok R1=+ArAK
+0 W=~çok R2=+ABIlAn
+1 W==açýkça L2=+K
+1 W==gene L1=+InI
+1 W=~ne L1=+Ay
+1 W=~ne R2==diye
+0 W=~çok L1==az
+0 W=~çok R1=+nAm
+0 W=~çok R1==iþ
+1 W=~çok R1=+IyorlAr
+0 W=+l R1=+ArsInIz
+1 W=~çok R1=+IlAr
+1 W=~çok R1=+IyAsI
+0 W=+A R1=+CIKlIyor
+0 W=~çok R1=+AnIn
+1 W=+l L1=+IylA
+0 W=~çok R1=+InA
+0 W=~çok R1=UCFIRST
+1 W=~çok L1=~bir R2=+CInIn
+1 W=~çok L1=+AhA R2==.
+0 L1=+ADov'In
+0 L1=+yþAKIl
+0 L2=+ArlAnmAK
+0 R1=+AKAnDIKInI
+0 R1=+AKlIyorlAr
+0 R1=+IþAnlArI
+0 R2==Stephan
+0 R2==bilmeyen
+0 W=+ACArCA
+0 W=+ADDArCA
+0 W=+AKArsA
+0 W=+AsKAn
+0 W=+AvAþCA
+0 W=+AvInCA
+0 W=+AzArA
+0 W=+InhArCA
+0 W=+KArCA
+0 W=+fCA
+0 W=+onlArCA
+1 L1=+AlImAnlArInDA
+1 L1=+IþIyor
+1 L1==caným
+1 L2=+AlAsInDA
+1 L2==evlat
+1 L2==savunmada
+1 L2==yaþamýyor
+1 R1=+AmAzDI
+1 R1=+AnDIrmIþ
+1 R1=+DKIlAyICI
+1 R1=+IDmAm
+1 R1=+lACAKsIn
+1 R1=+nmIyorIz
+1 R1==Acayip
+1 R1==aksi
+1 R1=~00'de
+1 R2=+AhlA
+1 R2=+AþfADIlAn
+1 R2==bitti
+1 R2==dersiniz
+1 R2==gördü
+1 R2==olamadý
+1 R2==sapan
+1 R2==vur
+1 W=+AlImI
+1 W=+ArAmADAn
+1 W=+BADAn
+1 W=+IsKIvrAK
+1 W=+KDAnDIr
+0 R1=+AKKIr
+0 R1=+rABIlIr
+0 R1==emek
+0 R2=+CIKlArA
+0 W==yaya
+1 L2=+AKAlIm
+1 L2=~asýl
+1 R1=+AlACAKIm
+1 R1=+DIrmAKDAn
+1 R2==cinayet
+1 W=+AKIKADAn
+0 L1=+rDoKAn
+0 W=+AzIn
+1 R1=+ABAlIm
+1 R1=+B'DA
+1 R1=+orlAnDIKInI
+1 L2=+Ay'A
+1 L2=+DIrDIm
+1 L2==Umay
+1 R1=+ADCA
+1 R1=+þIlIr
+0 R1==mal
+0 R1==top
+1 L1=+AKrAr
+1 R1=+ArsAnIz
+1 R1=+IlArInDAn
+1 R1==baðlý
+1 R2=+IlmIyorIm
+1 R2==Batý
+0 W==aylarca
+1 R1=+AllIKlA
+1 R1=+DDIAlI
+1 R1=+ABIlDI
+1 R1=+nImIzDAKI
+0 R2==beri
+1 R1=+ArsIz
+1 R2=+yA'DAKI
+0 R2=+ADIrAn
+0 W==Týpký
+1 W==Týpký R1=LOWER
+1 L1=+Ar'I
+0 W==bir
+1 R1=+AKIlsA
+1 W==yýllarca
+1 R1=+InDAmA
+0 W=+A L1=+DAn W=+nrA
+1 W==elbette
+1 W==tersine
+1 R1==güçlü
+1 W==gelince
+0 W==Ne
+0 W=+A R1=+orAr
+0 W=+l L1=+AþmAyI
+0 W=+l L1=+DAyI
+0 W=+l L1=+ImlArI
+0 W=+l L1=+lI
+0 W=+l L1=+lInI
+0 W=+l L1=~bunun
+0 W=+l L2=+sAl
+0 W=+l R1=+IDIyor
+0 W=+l R2=+Al
+0 W=+l R2=+CA
+0 W=+n L2=+AvAþIn
+0 W=+n L2=+lmAsInIn
+0 W=+n R1=+nIþAn
+0 W==özellikle L2=+KAlArI
+0 W=~sýk L1=~bunu
+0 W=~çok R1=+IlIK
+0 W=~çok R1=+mAsI
+0 W=~çok R1==.
+0 W=~çok R1==ama
+0 W=~çok R1==on
+0 W=~çok R2=+ArICI
+0 W=~çok R2=+DIlDI
+1 L1=~pek R2=+ArI
+1 W=+A R1=+mAzDIm
+1 W=+A R2=+AlmAz
+1 W=+A R2==diyor
+1 W=+ADAn R1=+IlAmAyA
+1 W=+ADAn R1=+IlKI
+1 W=+ADAn R1=+KIl
+1 W=+AþDA L2=+yA
+1 W=+DCA L1=+ArKAsIn
+1 W=+IKDA L1=+nrA
+1 W=+n L2=+B'lI
+1 W==açýkça R1=+Af
+1 W==gene R1=+AK
+1 W==iþte L1==Ve
+1 W==nice L1==daha
+1 W=~erken L2=UPPER
+1 W=~erken R2=+lArI
+1 W=~ne L1=~dün
+1 W=~ne L2=+KonomI
+1 W=~ne L2=~bunu
+1 W=~ne R1=+Az
+1 W=~ne R1=+CIlIK
+1 W=~ne R1=+rDIK
+1 W=~ne R2=+AhI
+0 W=+A L2==zam
+0 W=+A R2=+yADCI
+0 W=+l R1=+rIz
+0 W=+l R1==.
+1 W=+A L2=+AzsA
+1 W=~ne L1=+AKAn'In
+1 W=~ne L2=+IlmAsI
+1 W=~ne R1=+rDIr
+0 W=~çok R1=+IþI
+0 W=~çok R1==para
+1 W=+A L1=+IrKIyA'yI
+1 W=+A R1==deðildi
+1 W=+AzlA L1==de
+1 W=+A R1==diðer
+0 W=+l R1=+lArI
+0 W=~ne L1==þimdi
+1 W=~ne R1=+IyorlAr
+1 W==iþte R1=+öylA
+1 W=~ne R1=+IyorsIn
+0 W=+l R2=+KI
+1 W=+l R1=+Ah
+0 W=~ne R1=+DA
+0 W==iþte R1=+öylA R2=+Ar
+0 W=~ne R2==. L1=+InA
+1 W=+A L1=+DAn W==þöyle

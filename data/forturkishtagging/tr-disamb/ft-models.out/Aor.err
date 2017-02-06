@@ -1,0 +1,41 @@
+** Message: $Id: dlist.c,v 2.10 2004/10/28 16:46:53 dyuret Exp $
+** Message: ==> READING
+** Message: Reading data from stdin (1 dot = 10000 instances)
+..
+** Message: Read 24980 instances.
+** Message: ==> TRAINING
+** Message: Training on 16589 instances (1 dot = 100 rules)
+.....
+** Message: Got 419 rules out of 339586 candidates.
+** Message: Training set performance:
+** Message: nrules:	corr:	incorr:	percent:
+** Message: 419	16579	10	99.94%
+** Message: ==> VALIDATION
+** Message: Validating on 4186 instances (1 dot = 1000 instances)
+.....
+** Message: Best number of rules to use: 169
+** Message: nrules:	corr:	incorr:	percent:
+** Message: 169	4054	132	96.85%
+** Message: 419	4049	137	96.73%
+** Message: ==> TESTING
+** Message: Testing on 4205 instances (1 dot = 1000 instances)
+.....
+** Message: nrules:	corr:	incorr:	percent:
+** Message: 169	4067	138	96.72%
+** Message: 89	4037	168	96.00%
+** Message: 45	3995	210	95.01%
+** Message: 30	3953	252	94.01%
+** Message: 20	3915	290	93.10%
+** Message: 14	3871	334	92.06%
+** Message: 11	3828	377	91.03%
+** Message: 9	3786	419	90.04%
+** Message: 8	3758	447	89.37%
+** Message: 7	3695	510	87.87%
+** Message: 6	3643	562	86.63%
+** Message: 5	3507	698	83.40%
+** Message: 4	3365	840	80.02%
+** Message: 3	3136	1069	74.58%
+** Message: 2	2917	1288	69.37%
+** Message: 1	2521	1684	59.95%
+** Message: ==> WRITING
+** Message: Wrote 169 rules to stdout.

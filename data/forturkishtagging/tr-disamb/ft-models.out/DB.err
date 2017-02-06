@@ -1,0 +1,59 @@
+** Message: $Id: dlist.c,v 2.10 2004/10/28 16:46:53 dyuret Exp $
+** Message: ==> READING
+** Message: Reading data from stdin (1 dot = 10000 instances)
+.......................
+** Message: Read 235414 instances.
+** Message: ==> TRAINING
+** Message: Training on 156307 instances (1 dot = 100 rules)
+...................................................................
+** Message: Got 6676 rules out of 2982284 candidates.
+** Message: Training set performance:
+** Message: nrules:	corr:	incorr:	percent:
+** Message: 6676	156160	147	99.91%
+** Message: ==> VALIDATION
+** Message: Validating on 39606 instances (1 dot = 1000 instances)
+........................................
+** Message: Best number of rules to use: 6145
+** Message: nrules:	corr:	incorr:	percent:
+** Message: 6145	37784	1822	95.40%
+** Message: 6676	37755	1851	95.33%
+** Message: ==> TESTING
+** Message: Testing on 39501 instances (1 dot = 1000 instances)
+........................................
+** Message: nrules:	corr:	incorr:	percent:
+** Message: 6145	37701	1800	95.44%
+** Message: 2398	37527	1974	95.00%
+** Message: 1352	37131	2370	94.00%
+** Message: 969	36736	2765	93.00%
+** Message: 968	36734	2767	93.00%
+** Message: 966	36736	2765	93.00%
+** Message: 678	36341	3160	92.00%
+** Message: 515	35946	3555	91.00%
+** Message: 404	35560	3941	90.02%
+** Message: 323	35162	4339	89.02%
+** Message: 262	34764	4737	88.01%
+** Message: 211	34371	5130	87.01%
+** Message: 173	33983	5518	86.03%
+** Message: 140	33580	5921	85.01%
+** Message: 115	33199	6302	84.05%
+** Message: 95	32791	6710	83.01%
+** Message: 77	32399	7102	82.02%
+** Message: 62	32027	7474	81.08%
+** Message: 52	31619	7882	80.05%
+** Message: 43	31250	8251	79.11%
+** Message: 35	30834	8667	78.06%
+** Message: 29	30477	9024	77.16%
+** Message: 24	30060	9441	76.10%
+** Message: 19	29655	9846	75.07%
+** Message: 15	29269	10232	74.10%
+** Message: 12	28944	10557	73.27%
+** Message: 10	28619	10882	72.45%
+** Message: 8	28177	11324	71.33%
+** Message: 7	27929	11572	70.70%
+** Message: 5	27319	12182	69.16%
+** Message: 4	26842	12659	67.95%
+** Message: 3	26359	13142	66.73%
+** Message: 2	25805	13696	65.33%
+** Message: 1	23993	15508	60.74%
+** Message: ==> WRITING
+** Message: Wrote 6145 rules to stdout.

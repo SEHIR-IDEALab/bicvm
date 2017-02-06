@@ -1,0 +1,56 @@
+1
+0 W=+ArInDA
+0 L1=+n
+0 L1==ile
+0 L1=+DA
+0 L1=+I
+0 L1=+B
+0 L1==ve
+0 L1=+r
+0 L1=<S>
+0 L1==,
+0 W==Birlikte
+1 L1==ile L2=+AlArI
+1 L2=UPPER
+0 W==berabere
+1 L1==ile R2=+K
+0 L1=+ArCA
+0 L1=+nrA
+1 L2=+AnlIKI
+1 L2=+zI
+1 R2==iki
+0 L1==de
+0 W==beraberlik
+1 L1==ile R1=+DAn
+1 L1==ile R1=+DIK
+1 L1==ile R1=+lACAK
+0 L1=+ADonA
+0 L1=+BA
+0 L1=+IA
+0 L1=+IsyA
+0 L1=+orlA
+0 L2=+ArBAsD
+1 L1=+AADInI
+1 L1=+AmlArI
+1 L1=+ArDIr
+1 L1=+AsyonI
+1 L1=+CInDA
+1 L1=+IllArI
+1 L1=+nsAnIn
+1 L1=+þlArI
+1 L1==Sürekli
+1 L2=+'I
+1 L2=+ABIlACAK
+1 L2=+AClAr
+1 L2=+AfIlA
+1 L2=+AlAr
+1 L2=+AlKIrmAy
+1 L2=+AmBI
+1 L2=+AmmI
+1 L2=+AnBIl
+1 L2=+AnsfAr
+1 L2=+ArIsIylA
+1 L2=+AsDrAsI
+1 L2=+IfKIr
+1 L2=+Io
+1 L2=+IrKIyA

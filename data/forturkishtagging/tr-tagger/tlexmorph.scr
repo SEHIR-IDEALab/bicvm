@@ -1,0 +1,9 @@
+lexicon1 tlexmorph.fst
+lexicon2 turknum.fst
+lexicon3 turkunk.fst
+unknown unknown.fst
+
+lexicon1
+lexicon2
+lexicon3
+unknown

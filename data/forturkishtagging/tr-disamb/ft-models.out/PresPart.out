@@ -1,0 +1,142 @@
+1
+0 W=UCFIRST
+0 W=+nIn
+0 W=~geçen
+0 W=+DA
+0 W=+I
+0 W=~bakan
+1 W=+AnlArI
+0 W=UPPER
+0 W=~kazan
+0 W==düzen
+0 W=~bakanlarý
+0 W=+InA
+0 W==Doðan
+0 W=~bakanlarýn
+0 W=+AlIrDIlAn
+0 W=~bakanlar
+0 W==alanlar
+0 W=+AnmIþ
+1 W=~geçen R1=UCFIRST
+0 W=APOS1
+1 W=+nAn
+0 W=+AlIþAnlArA
+0 W==alana
+0 W=+InDAn
+0 W=+AlIþAnlAr
+0 W==Gülen
+1 W=+AyAn
+1 W==Süren
+1 W=UCFIRST W=+þAn
+0 W==alanlarý
+0 W==Çaðlayan
+1 W==olaný
+0 W=+AlIþAnlArIn
+0 W=+Im
+0 W=+AlIþAnlArI
+1 W=+DAnI
+0 W=+IK
+1 L1=~adý
+1 W=~geçen L1=+nA
+1 W=+AnAnIn
+1 W=+AyAnIn
+1 W==Akan
+1 W==olanýn
+1 W=+þAnI
+0 W=+AlIþAnI
+1 W=UCFIRST L1=+DAD
+0 W=+IylA
+0 W==alanlara
+1 W=+nAnI
+0 W=+AKAnlArA
+0 W==esen
+0 W=+zAnA
+0 W==yýlan
+1 W=+IlAnI
+1 W=+yAnI
+0 W=+IlAr
+0 W=+nCA
+0 W=+Iz
+0 W==Kuran
+1 W=+rIlAn
+1 W=UCFIRST W=+AnA
+1 W=~geçen L1=+ADAn
+0 W==alanlarýn
+0 W==kalanlarýn
+1 W=+ArAKAnI
+0 W=+sIn
+0 W==Kalan
+1 W=+yAnlAr
+0 W=+rIlAn L1=+DIKI
+1 W=+AlIrDIlAn L1=+A
+1 W=UCFIRST R1==Kumaþçýlýk
+1 W=UCFIRST W=+ADAn
+0 W=+AnCIn
+0 W==Yeniþen
+0 W==alanlardan
+0 W==bakana
+0 W==bakanlardan
+0 W==diken
+0 W==geçenleri
+0 W==kalanlar
+0 W==kalanlara
+0 W==kýzan
+1 W==Kaçan
+0 W=+IlADAn
+1 L1==harekete
+0 W==Sezen
+1 W=+IlAnIn
+0 R1=+IKInA
+1 W=UCFIRST L2=+Az
+1 W=~geçen L1==ele
+0 L1=+BrIyI
+0 L1=+D'lArDA
+0 L1=+ylArDIr
+0 L1==kýrk
+0 L2=+AnsA'DAn
+0 L2==Ana
+0 L2==Ergun
+0 L2==atýn
+0 R1=+AlDIrInIn
+0 R1=+AlIþmAsI
+0 R1==Cumartesi
+0 R1==sahip
+0 R2=+AþCIlIK
+0 W=+ABIlAnIn
+0 W=+AlIþAnlArDAn
+0 W==Kayan
+0 W==alandan
+0 W==alanýdýr
+0 W==geçenlere
+1 L1=+IKDArI
+1 L1=+InlAmAyA
+1 L1==En
+1 L2=+AyKovsKI'nIn
+1 L2==Özel
+1 W=+ABAnI
+1 W=+AlAnlArInA
+1 W=+AmAyAnlArDA
+1 W=+AnCIlAr
+1 W=+AnlArDAnDI
+1 W=+AnlArDI
+1 W=+rAnI
+1 W==D
+0 R1=+IþDIrmAK
+0 R1=+rAvlArI
+0 R2=+ACInDAn
+0 W==Çaldýran
+1 R2=+ADvAKIllArI
+1 L1=+AnBIl'DA
+1 R2==kýzlar
+0 W==Baþaran
+1 L1==ismi
+1 L2=+sAs
+1 L1=+ArlArInI
+0 W==Okuyan
+0 L1==orta
+0 R1=+lArAK
+1 R1==her
+1 W=+AnAnlAr
+1 W=+rAnlAr
+1 W=+KIlAn
+1 W=~olan

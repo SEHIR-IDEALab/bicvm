@@ -1,0 +1,61 @@
+1
+0 W=~çok
+0 W=+AzI
+1 L1=~pek
+1 W=~çok R1=+DA
+0 W=+AKIm
+1 L1=~bir
+1 L1=+AhA
+1 R1==,
+0 R1==, W=STFIRST
+1 W=~çok R2==var
+0 W==Çok
+0 L1=+AhA R2=<S>
+1 R1==partili
+0 R1==:
+1 W==O
+1 R1=+yA
+1 W=~çok R1=+AD
+1 R1==düþük
+1 R1==da
+0 R1==da W==Bu
+1 W=~çok R1=+lAr
+0 W==Çok
+1 W=~çok R1=+CI
+0 R1==rahat
+1 R1==para
+1 R1=<S>
+1 R1=+AnIn
+0 W=~çok R1=+IyAsI
+1 W=~çok R2=+rAn
+1 W=~çok R1=="
+0 W=~çok L1=+nI
+0 R1==Dakika
+1 R1==þükür
+0 W==Çok
+0 R1=+IzIm
+1 W==bu
+1 R1==þeyi
+1 R1=+orI
+1 R1==zaman
+0 L1=+AhA L2=+InI
+0 L1=+AhA L2=+ArI
+1 W=~çok R1=+InI
+0 R1==da L1==.
+0 L1=+AKImIzDA
+0 L1=+AsmInDAn
+0 L2=+IyACAK
+0 R1=+DKIlAyICI
+0 R1=+IrsAnIz
+0 R1=+lCIlIK
+0 R2=+AlIrDDI
+1 L1=+InyAsInIn
+1 L2==Toparlanmak
+1 R1=+ACmADAn
+1 R1=+AKKIr
+1 R2=+ArICI
+1 R2==beklenen
+1 R1==ama
+1 R1==merak
+1 R1=+rAmA
+1 R1==önem

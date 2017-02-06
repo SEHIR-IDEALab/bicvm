@@ -1,0 +1,13 @@
+1
+0 W=+AlAn
+0 W=+ArInCA
+0 L1=DIGIT
+0 L1==kararý
+1 L1=DIGIT W=+n
+0 L1=+.00
+0 W=+AlAnI
+0 L1==Aksi
+0 L1=+osA
+0 R1==veya
+0 L1=~yasa
+1 W==gibi

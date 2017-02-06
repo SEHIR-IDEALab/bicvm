@@ -1,0 +1,56 @@
+** Message: $Id: dlist.c,v 2.10 2004/10/28 16:46:53 dyuret Exp $
+** Message: ==> READING
+** Message: Reading data from stdin (1 dot = 10000 instances)
+.....................
+** Message: Read 218616 instances.
+** Message: ==> TRAINING
+** Message: Training on 145169 instances (1 dot = 100 rules)
+..................................
+** Message: Got 3328 rules out of 2336081 candidates.
+** Message: Training set performance:
+** Message: nrules:	corr:	incorr:	percent:
+** Message: 3328	145051	118	99.92%
+** Message: ==> VALIDATION
+** Message: Validating on 36768 instances (1 dot = 1000 instances)
+.....................................
+** Message: Best number of rules to use: 1391
+** Message: nrules:	corr:	incorr:	percent:
+** Message: 1391	35838	930	97.47%
+** Message: 3328	35814	954	97.41%
+** Message: ==> TESTING
+** Message: Testing on 36679 instances (1 dot = 1000 instances)
+.....................................
+** Message: nrules:	corr:	incorr:	percent:
+** Message: 1391	35716	963	97.37%
+** Message: 906	35580	1099	97.00%
+** Message: 902	35578	1101	97.00%
+** Message: 901	35579	1100	97.00%
+** Message: 898	35578	1101	97.00%
+** Message: 885	35579	1100	97.00%
+** Message: 459	35213	1466	96.00%
+** Message: 458	35211	1468	96.00%
+** Message: 455	35212	1467	96.00%
+** Message: 304	34846	1833	95.00%
+** Message: 221	34483	2196	94.01%
+** Message: 161	34126	2553	93.04%
+** Message: 121	33748	2931	92.01%
+** Message: 91	33389	3290	91.03%
+** Message: 71	33025	3654	90.04%
+** Message: 53	32652	4027	89.02%
+** Message: 42	32310	4369	88.09%
+** Message: 33	31953	4726	87.12%
+** Message: 25	31545	5134	86.00%
+** Message: 21	31216	5463	85.11%
+** Message: 17	30857	5822	84.13%
+** Message: 14	30510	6169	83.18%
+** Message: 12	30197	6482	82.33%
+** Message: 10	29840	6839	81.35%
+** Message: 8	29405	7274	80.17%
+** Message: 7	29156	7523	79.49%
+** Message: 5	28694	7985	78.23%
+** Message: 4	28407	8272	77.45%
+** Message: 3	27602	9077	75.25%
+** Message: 2	26685	9994	72.75%
+** Message: 1	25707	10972	70.09%
+** Message: ==> WRITING
+** Message: Wrote 1391 rules to stdout.

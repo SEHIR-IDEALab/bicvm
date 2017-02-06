@@ -1,0 +1,996 @@
+<DOC>	<DOC>
+
+<TITLE>	<TITLE>
+
+<S>	<S>
+
+Dövizli	döviz	+Noun+A3sg+Pnon+Nom^DB+Adj+With
+
+askerlik	askerlik	+Noun+A3sg+Pnon+Nom
+askerlik	asker	+Noun+A3sg+Pnon+Nom^DB+Adj+FitFor
+askerlik	asker	+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+Pnon+Nom
+
+20	20	+Num+Card
+
+bin	bin	+Verb+Pos+Imp+A2sg
+bin	bin	+Num+Card
+
+mark	mark	+Noun+A3sg+Pnon+Nom
+
+</S>	</S>
+
+</TITLE>	</TITLE>
+
+<S>	<S>
+
+Milli	milli	+Adj
+Milli	Milli	+Noun+Prop+A3sg+Pnon+Nom
+Milli	mil	+Noun+A3sg+Pnon+Nom^DB+Adj+With
+
+Savunma	savun	+Verb+Pos^DB+Noun+Inf2+A3sg+Pnon+Nom
+Savunma	savun	+Verb+Neg+Imp+A2sg
+
+Bakanlýðý	bakanlýk	+Noun+A3sg+P3sg+Nom
+Bakanlýðý	bakanlýk	+Noun+A3sg+Pnon+Acc
+Bakanlýðý	bakan	+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+P3sg+Nom
+Bakanlýðý	bakan	+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+Pnon+Acc
+Bakanlýðý	bakan	+Adj^DB+Noun+Ness+A3sg+P3sg+Nom
+Bakanlýðý	bakan	+Adj^DB+Noun+Ness+A3sg+Pnon+Acc
+
+dövizli	döviz	+Noun+A3sg+Pnon+Nom^DB+Adj+With
+
+askerlikten	askerlik	+Noun+A3sg+Pnon+Abl
+askerlikten	asker	+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+Pnon+Abl
+
+yararlanmak	yarar	+Noun+A3sg+Pnon+Nom^DB+Verb+Acquire+Pos^DB+Noun+Inf1+A3sg+Pnon+Nom
+
+için	iç	+Noun+A3sg+P2sg+Nom
+için	iç	+Noun+A3sg+Pnon+Gen
+için	iç	+Verb+Pos+Imp+A2pl
+için	için	+Postp+PCNom
+
+yurt	yurt	+Noun+A3sg+Pnon+Nom
+
+dýþýnda	dýþ	+Noun+A3sg+P3sg+Loc
+dýþýnda	dýþ	+Noun+A3sg+P2sg+Loc
+dýþýnda	dýþý	+Adj^DB+Noun+Zero+A3sg+P2sg+Loc
+
+bulunma	bul	+Verb^DB+Verb+Pass+Pos^DB+Noun+Inf2+A3sg+Pnon+Nom
+bulunma	bul	+Verb^DB+Verb+Pass+Neg+Imp+A2sg
+bulunma	bulun	+Verb+Pos^DB+Noun+Inf2+A3sg+Pnon+Nom
+bulunma	bulun	+Verb+Neg+Imp+A2sg
+
+süresini	sür	+Verb+Pos^DB+Noun+FeelLike+A3sg+P2sg+Acc
+süresini	süre	+Noun+A3sg+P3sg+Acc
+
+3	3	+Num+Card
+
+yýldan	yýl	+Noun+A3sg+Pnon+Abl
+
+1	1	+Num+Card
+
+yýla	yýl	+Noun+A3sg+Pnon+Dat
+yýla	yýl	+Verb+Pos+Opt+A3sg
+
+indirirken	in	+Verb^DB+Verb+Caus+Pos+Aor^DB+Adverb+While
+
+,	,	+Punc
+
+dövizli	döviz	+Noun+A3sg+Pnon+Nom^DB+Adj+With
+
+askerlik	askerlik	+Noun+A3sg+Pnon+Nom
+askerlik	asker	+Noun+A3sg+Pnon+Nom^DB+Adj+FitFor
+askerlik	asker	+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+Pnon+Nom
+
+rakamýný	rakam	+Noun+A3sg+P3sg+Acc
+rakamýný	rakam	+Noun+A3sg+P2sg+Acc
+
+iki	iki	+Num+Card
+
+katýna	kat	+Noun+A3sg+P3sg+Dat
+katýna	kat	+Noun+A3sg+P2sg+Dat
+katýna	katý	+Adj^DB+Noun+Zero+A3sg+P2sg+Dat
+
+çýkartmayý	çýk	+Verb^DB+Verb+Caus^DB+Verb+Caus+Pos^DB+Noun+Inf2+A3sg+Pnon+Acc
+
+planlýyor	planla	+Verb+Pos+Prog1+A3sg
+
+</S>	</S>
+
+<S>	<S>
+
+Evren	evre	+Noun+A3sg+P2sg+Nom
+Evren	evren	+Noun+A3sg+Pnon+Nom
+Evren	Evren	+Noun+Prop+A3sg+Pnon+Nom
+
+DEÐER	deð	+Verb+Pos+Aor+A3sg
+DEÐER	deð	+Verb+Pos+Aor^DB+Adj+Zero
+DEÐER	deðer	+Noun+A3sg+Pnon+Nom
+
+-	-	+Punc
+
+ANKARA	Ankara	+Noun+Prop+A3sg+Pnon+Nom
+
+</S>	</S>
+
+<S>	<S>
+
+MÝLLÝ	mil	+Noun+A3sg+Pnon+Nom^DB+Adj+With
+MÝLLÝ	mil	+Noun+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3sg+Pnon+Nom
+MÝLLÝ	milli	+Adj
+
+Savunma	savun	+Verb+Pos^DB+Noun+Inf2+A3sg+Pnon+Nom
+Savunma	savun	+Verb+Neg+Imp+A2sg
+
+Bakanlýðý	bakanlýk	+Noun+A3sg+P3sg+Nom
+Bakanlýðý	bakanlýk	+Noun+A3sg+Pnon+Acc
+Bakanlýðý	bakan	+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+P3sg+Nom
+Bakanlýðý	bakan	+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+Pnon+Acc
+Bakanlýðý	bakan	+Adj^DB+Noun+Ness+A3sg+P3sg+Nom
+Bakanlýðý	bakan	+Adj^DB+Noun+Ness+A3sg+Pnon+Acc
+
+dövizli	döviz	+Noun+A3sg+Pnon+Nom^DB+Adj+With
+
+askerlik	askerlik	+Noun+A3sg+Pnon+Nom
+askerlik	asker	+Noun+A3sg+Pnon+Nom^DB+Adj+FitFor
+askerlik	asker	+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+Pnon+Nom
+
+konusunda	konu	+Noun+A3sg+P3sg+Loc
+
+çözüm	çöz	+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A1sg
+çözüm	çöz	+Noun+A3sg+P1sg+Nom
+çözüm	çözüm	+Noun+A3sg+Pnon+Nom
+
+arayýþýna	ara	+Verb+Pos^DB+Noun+Inf3+A3sg+P3sg+Dat
+arayýþýna	ara	+Verb+Pos^DB+Noun+Inf3+A3sg+P2sg+Dat
+
+girdi	girdi	+Noun+A3sg+Pnon+Nom
+girdi	gir	+Verb+Pos+Past+A3sg
+
+</S>	</S>
+
+<S>	<S>
+
+Bakanlýk	bakanlýk	+Noun+A3sg+Pnon+Nom
+Bakanlýk	bakan	+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+Pnon+Nom
+Bakanlýk	bakan	+Noun+A3sg+Pnon+Nom^DB+Adj+FitFor
+Bakanlýk	bakan	+Adj^DB+Noun+Ness+A3sg+Pnon+Nom
+
+birçok	birçok	+Det
+
+kiþinin	kiþi	+Noun+A3sg+P2sg+Gen
+kiþinin	kiþi	+Noun+A3sg+Pnon+Gen
+
+,	,	+Punc
+
+bulunduðu	bul	+Verb^DB+Verb+Pass+Pos^DB+Adj+PastPart+P3sg
+bulunduðu	bul	+Verb^DB+Verb+Pass+Pos^DB+Noun+PastPart+A3sg+P3sg+Nom
+bulunduðu	bulun	+Verb+Pos^DB+Adj+PastPart+P3sg
+bulunduðu	bulun	+Verb+Pos^DB+Noun+PastPart+A3sg+P3sg+Nom
+
+ve	ve	+Conj
+
+çalýþtýðý	çalýþ	+Verb+Pos^DB+Adj+PastPart+P3sg
+çalýþtýðý	çalýþ	+Verb+Pos^DB+Noun+PastPart+A3sg+P3sg+Nom
+
+ülkenin	ülke	+Noun+A3sg+P2sg+Gen
+ülkenin	ülke	+Noun+A3sg+Pnon+Gen
+
+vatandaþlýðýna	vatandaþlýk	+Noun+A3sg+P3sg+Dat
+vatandaþlýðýna	vatandaþlýk	+Noun+A3sg+P2sg+Dat
+vatandaþlýðýna	vatandaþ	+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+P3sg+Dat
+vatandaþlýðýna	vatandaþ	+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+P2sg+Dat
+
+geçerek	geç	+Verb+Pos^DB+Adverb+ByDoingSo
+
+Türkiye'de	Türkiye	+Noun+Prop+A3sg+Pnon+Loc
+
+askerlik	askerlik	+Noun+A3sg+Pnon+Nom
+askerlik	asker	+Noun+A3sg+Pnon+Nom^DB+Adj+FitFor
+askerlik	asker	+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+Pnon+Nom
+
+yükümlülüðünü	yüküm	+Noun+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Ness+A3sg+P3sg+Acc
+yükümlülüðünü	yüküm	+Noun+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Ness+A3sg+P2sg+Acc
+
+yerine	ye	+Verb+Pos+Aor^DB+Adj+Zero^DB+Noun+Zero+A3sg+P3sg+Dat
+yerine	ye	+Verb+Pos+Aor^DB+Adj+Zero^DB+Noun+Zero+A3sg+P2sg+Dat
+yerine	yer	+Noun+A3sg+P3sg+Dat
+yerine	yer	+Noun+A3sg+P2sg+Dat
+yerine	yerin	+Verb+Pos+Opt+A3sg
+
+getirmemesi	getir	+Verb+Neg^DB+Noun+Inf2^DB+Adj+Almost
+getirmemesi	getir	+Verb+Neg^DB+Noun+Inf2+A3sg+P3sg+Nom
+
+üzerine	üzer	+Noun+A3sg+P3sg+Dat
+üzerine	üzer	+Noun+A3sg+P2sg+Dat
+üzerine	üz	+Verb+Pos+Aor^DB+Adj+Zero^DB+Noun+Zero+A3sg+P3sg+Dat
+üzerine	üz	+Verb+Pos+Aor^DB+Adj+Zero^DB+Noun+Zero+A3sg+P2sg+Dat
+
+alternatif	alternatif	+Noun+A3sg+Pnon+Nom
+
+üzerinde	üzer	+Noun+A3sg+P3sg+Loc
+üzerinde	üzer	+Noun+A3sg+P2sg+Loc
+üzerinde	üz	+Verb+Pos+Aor^DB+Adj+Zero^DB+Noun+Zero+A3sg+P3sg+Loc
+üzerinde	üz	+Verb+Pos+Aor^DB+Adj+Zero^DB+Noun+Zero+A3sg+P2sg+Loc
+
+çalýþmaya	çalýþ	+Verb+Pos^DB+Noun+Inf2+A3sg+Pnon+Dat
+çalýþmaya	çalýþ	+Verb+Neg+Opt+A3sg
+
+baþladý	baþla	+Verb+Pos+Past+A3sg
+
+</S>	</S>
+
+<S>	<S>
+
+Türk	Türk	+Noun+Prop+A3sg+Pnon+Nom
+Türk	türk	+Noun+A3sg+Pnon+Nom
+Türk	türk	+Adj
+
+vatandaþlýðýndan	vatandaþlýk	+Noun+A3sg+P3sg+Abl
+vatandaþlýðýndan	vatandaþlýk	+Noun+A3sg+P2sg+Abl
+vatandaþlýðýndan	vatandaþ	+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+P3sg+Abl
+vatandaþlýðýndan	vatandaþ	+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+P2sg+Abl
+
+ayrýlmanýn	ayýr	+Verb^DB+Verb+Pass+Pos^DB+Noun+Inf2+A3sg+Pnon+Gen
+ayrýlmanýn	ayýr	+Verb^DB+Verb+Pass+Pos^DB+Noun+Inf2+A3sg+P2sg+Gen
+
+önüne	ön	+Noun+A3sg+P3sg+Dat
+önüne	ön	+Noun+A3sg+P2sg+Dat
+
+geçmek	geç	+Verb+Pos^DB+Noun+Inf1+A3sg+Pnon+Nom
+
+için	iç	+Noun+A3sg+P2sg+Nom
+için	iç	+Noun+A3sg+Pnon+Gen
+için	iç	+Verb+Pos+Imp+A2pl
+için	için	+Postp+PCNom
+
+10	10	+Num+Card
+
+bin	bin	+Verb+Pos+Imp+A2sg
+bin	bin	+Num+Card
+
+mark	mark	+Noun+A3sg+Pnon+Nom
+
+olan	ol	+Verb+Pos^DB+Adj+PresPart
+
+dövizli	döviz	+Noun+A3sg+Pnon+Nom^DB+Adj+With
+
+askerlik	askerlik	+Noun+A3sg+Pnon+Nom
+askerlik	asker	+Noun+A3sg+Pnon+Nom^DB+Adj+FitFor
+askerlik	asker	+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+Pnon+Nom
+
+rakamýnýn	rakam	+Noun+A3sg+P3sg+Gen
+rakamýnýn	rakam	+Noun+A3sg+P2sg+Gen
+
+iki	iki	+Num+Card
+
+katýna	kat	+Noun+A3sg+P3sg+Dat
+katýna	kat	+Noun+A3sg+P2sg+Dat
+katýna	katý	+Adj^DB+Noun+Zero+A3sg+P2sg+Dat
+
+çýkarýlmasý	çýk	+Verb^DB+Verb+Caus^DB+Verb+Pass+Pos^DB+Noun+Inf2^DB+Adj+Almost
+çýkarýlmasý	çýk	+Verb^DB+Verb+Caus^DB+Verb+Pass+Pos^DB+Noun+Inf2+A3sg+P3sg+Nom
+
+,	,	+Punc
+
+yani	yani	+Conj
+
+miktarýn	miktar	+Noun+A3sg+P2sg+Nom
+miktarýn	miktar	+Noun+A3sg+Pnon+Gen
+
+20	20	+Num+Card
+
+bin	bin	+Verb+Pos+Imp+A2sg
+bin	bin	+Num+Card
+
+mark	mark	+Noun+A3sg+Pnon+Nom
+
+olmasý	ol	+Verb+Pos^DB+Noun+Inf2^DB+Adj+Almost
+olmasý	ol	+Verb+Pos^DB+Noun+Inf2+A3sg+P3sg+Nom
+
+ve	ve	+Conj
+
+karþýlýðýnda	karþýlýk	+Noun+A3sg+P3sg+Loc
+karþýlýðýnda	karþýlýk	+Noun+A3sg+P2sg+Loc
+karþýlýðýnda	karþý	+Adj^DB+Noun+Ness+A3sg+P3sg+Loc
+karþýlýðýnda	karþý	+Adj^DB+Noun+Ness+A3sg+P2sg+Loc
+karþýlýðýnda	karþý	+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+P3sg+Loc
+karþýlýðýnda	karþý	+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+P2sg+Loc
+karþýlýðýnda	karþý	+Postp+PCDat^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+P3sg+Loc
+karþýlýðýnda	karþý	+Postp+PCDat^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+P2sg+Loc
+
+da	da	+Conj
+
+bu	bu	+Det
+bu	bu	+Pron+Demons+A3sg+Pnon+Nom
+
+rakamý	rakam	+Noun+A3sg+P3sg+Nom
+rakamý	rakam	+Noun+A3sg+Pnon+Acc
+
+ödeyen	öde	+Verb+Pos^DB+Adj+PresPart
+
+kiþilerin	kiþi	+Noun+A3pl+P2sg+Nom
+kiþilerin	kiþi	+Noun+A3pl+Pnon+Gen
+
+askerlik	askerlik	+Noun+A3sg+Pnon+Nom
+askerlik	asker	+Noun+A3sg+Pnon+Nom^DB+Adj+FitFor
+askerlik	asker	+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+Pnon+Nom
+
+yükümlülüklerini	yüküm	+Noun+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Ness+A3pl+P3sg+Acc
+yükümlülüklerini	yüküm	+Noun+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Ness+A3pl+P2sg+Acc
+yükümlülüklerini	yüküm	+Noun+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Ness+A3pl+P3pl+Acc
+yükümlülüklerini	yüküm	+Noun+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Ness+A3sg+P3pl+Acc
+
+yerine	ye	+Verb+Pos+Aor^DB+Adj+Zero^DB+Noun+Zero+A3sg+P3sg+Dat
+yerine	ye	+Verb+Pos+Aor^DB+Adj+Zero^DB+Noun+Zero+A3sg+P2sg+Dat
+yerine	yer	+Noun+A3sg+P3sg+Dat
+yerine	yer	+Noun+A3sg+P2sg+Dat
+yerine	yerin	+Verb+Pos+Opt+A3sg
+
+getirmiþ	getir	+Verb+Pos+Narr+A3sg
+getirmiþ	getir	+Verb+Pos+Narr^DB+Adj+Zero
+
+sayýlmasý	say	+Verb^DB+Verb+Pass+Pos^DB+Noun+Inf2^DB+Adj+Almost
+sayýlmasý	say	+Verb^DB+Verb+Pass+Pos^DB+Noun+Inf2+A3sg+P3sg+Nom
+
+düþünülüyor	düþün	+Verb^DB+Verb+Pass+Pos+Prog1+A3sg
+
+</S>	</S>
+
+<S>	<S>
+
+Ayrýca	ayrý	+Adj^DB+Adverb+Ly
+Ayrýca	ayrý	+Adj^DB+Adj+AsIf
+Ayrýca	ayrý	+Adj^DB+Noun+Zero+A3sg+Pnon+Equ
+Ayrýca	ayrýç	+Noun+A3sg+Pnon+Dat
+Ayrýca	ayrýca	+Adverb
+
+dövizli	döviz	+Noun+A3sg+Pnon+Nom^DB+Adj+With
+
+askerlikten	askerlik	+Noun+A3sg+Pnon+Abl
+askerlikten	asker	+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+Pnon+Abl
+
+yararlanmak	yarar	+Noun+A3sg+Pnon+Nom^DB+Verb+Acquire+Pos^DB+Noun+Inf1+A3sg+Pnon+Nom
+
+için	iç	+Noun+A3sg+P2sg+Nom
+için	iç	+Noun+A3sg+Pnon+Gen
+için	iç	+Verb+Pos+Imp+A2pl
+için	için	+Postp+PCNom
+
+yurtdýþýnda	yurtdýþ	+Noun+A3sg+P2sg+Loc
+yurtdýþýnda	yurtdýþ	+Noun+A3sg+P3sg+Loc
+
+üç	üç	+Num+Card
+
+yýl	yýl	+Noun+A3sg+Pnon+Nom
+yýl	yýl	+Verb+Pos+Imp+A2sg
+
+bulunma	bul	+Verb^DB+Verb+Pass+Pos^DB+Noun+Inf2+A3sg+Pnon+Nom
+bulunma	bul	+Verb^DB+Verb+Pass+Neg+Imp+A2sg
+bulunma	bulun	+Verb+Pos^DB+Noun+Inf2+A3sg+Pnon+Nom
+bulunma	bulun	+Verb+Neg+Imp+A2sg
+
+koþulunun	koþu	+Noun+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3sg+P2sg+Gen
+koþulunun	koþu	+Noun+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3sg+Pnon+Gen
+koþulunun	koþul	+Noun+A3sg+P3sg+Gen
+koþulunun	koþul	+Noun+A3sg+P2sg+Gen
+
+da	da	+Conj
+
+bir	bir	+Det
+bir	bir	+Adverb
+bir	bir	+Adj
+bir	bir	+Num+Card
+
+yýla	yýl	+Noun+A3sg+Pnon+Dat
+yýla	yýl	+Verb+Pos+Opt+A3sg
+
+indirilmesi	in	+Verb^DB+Verb+Caus^DB+Verb+Pass+Pos^DB+Noun+Inf2^DB+Adj+Almost
+indirilmesi	in	+Verb^DB+Verb+Caus^DB+Verb+Pass+Pos^DB+Noun+Inf2+A3sg+P3sg+Nom
+
+planlanýyor	plan	+Noun+A3sg+Pnon+Nom^DB+Verb+Acquire+Pos+Prog1+A3sg
+planlanýyor	planla	+Verb^DB+Verb+Pass+Pos+Prog1+A3sg
+
+</S>	</S>
+
+<S>	<S>
+
+Bakanlýktan	bakanlýk	+Noun+A3sg+Pnon+Abl
+Bakanlýktan	bakan	+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+Pnon+Abl
+Bakanlýktan	bakan	+Adj^DB+Noun+Ness+A3sg+Pnon+Abl
+
+üst	üst	+Adj
+üst	üst	+Noun+A3sg+Pnon+Nom
+
+düzey	düzey	+Noun+A3sg+Pnon+Nom
+
+bir	bir	+Det
+bir	bir	+Adverb
+bir	bir	+Adj
+bir	bir	+Num+Card
+
+askeri	asker	+Noun+A3sg+Pnon+Acc
+askeri	asker	+Noun+A3sg+P3sg+Nom
+askeri	askeri	+Adj
+
+yetkili	yetkili	+Noun+A3sg+Pnon+Nom
+yetkili	yetki	+Noun+A3sg+Pnon+Nom^DB+Adj+With
+
+,	,	+Punc
+
+çalýþmalarýn	çalýþ	+Verb+Pos^DB+Noun+Inf2+A3pl+Pnon+Gen
+çalýþmalarýn	çalýþ	+Verb+Pos^DB+Noun+Inf2+A3pl+P2sg+Nom
+
+henüz	henüz	+Adverb
+
+ham	ham	+Noun+A3sg+Pnon+Nom
+
+olduðunu	ol	+Verb+Pos^DB+Noun+PastPart+A3sg+P3sg+Acc
+olduðunu	ol	+Verb+Pos^DB+Noun+PastPart+A3sg+P2sg+Acc
+
+,	,	+Punc
+
+çeþitli	çeþit	+Noun+A3sg+Pnon+Nom^DB+Adj+With
+
+birimlerin	birim	+Noun+A3pl+P2sg+Nom
+birimlerin	birim	+Noun+A3pl+Pnon+Gen
+
+deðiþik	deðiþik	+Adj
+
+görüþleri	gör	+Verb+Pos^DB+Noun+Inf3+A3pl+P3sg+Nom
+görüþleri	gör	+Verb+Pos^DB+Noun+Inf3+A3pl+Pnon+Acc
+görüþleri	gör	+Verb+Pos^DB+Noun+Inf3+A3pl+P3pl+Nom
+görüþleri	gör	+Verb+Pos^DB+Noun+Inf3+A3sg+P3pl+Nom
+görüþleri	görüþ	+Noun+A3pl+P3sg+Nom
+görüþleri	görüþ	+Noun+A3pl+Pnon+Acc
+görüþleri	görüþ	+Noun+A3pl+P3pl+Nom
+görüþleri	görüþ	+Noun+A3sg+P3pl+Nom
+
+savunduðunu	savun	+Verb+Pos^DB+Noun+PastPart+A3sg+P3sg+Acc
+savunduðunu	savun	+Verb+Pos^DB+Noun+PastPart+A3sg+P2sg+Acc
+
+,	,	+Punc
+
+önümüzdeki	ön	+Noun+A3sg+P1pl+Loc^DB+Adj+Rel
+
+günlerde	gün	+Noun+A3pl+Pnon+Loc
+
+çalýþmanýn	çalýþ	+Verb+Pos^DB+Noun+Inf2+A3sg+Pnon+Gen
+çalýþmanýn	çalýþ	+Verb+Pos^DB+Noun+Inf2+A3sg+P2sg+Gen
+
+somutlaþacaðýný	somutla	+Verb+Recip+Pos^DB+Noun+FutPart+A3sg+P3sg+Acc
+somutlaþacaðýný	somutla	+Verb+Recip+Pos^DB+Noun+FutPart+A3sg+P2sg+Acc
+somutlaþacaðýný	somut	+Adj^DB+Verb+Become+Pos^DB+Noun+FutPart+A3sg+P3sg+Acc
+somutlaþacaðýný	somut	+Adj^DB+Verb+Become+Pos^DB+Noun+FutPart+A3sg+P2sg+Acc
+
+bildirdi	bil	+Verb^DB+Verb+Caus+Pos+Past+A3sg
+
+</S>	</S>
+
+<S>	<S>
+
+Alýnan	al	+Verb^DB+Verb+Pass+Pos^DB+Adj+PresPart
+Alýnan	alýn	+Verb+Pos^DB+Adj+PresPart
+
+bilgiye	bilgi	+Noun+A3sg+Pnon+Dat
+
+göre	gör	+Verb+Pos+Opt+A3sg
+göre	göre	+Postp+PCDat
+
+,	,	+Punc
+
+yeni	yen	+Noun+A3sg+Pnon+Acc
+yeni	yen	+Noun+A3sg+P3sg+Nom
+yeni	yeni	+Adj
+
+yöntemle	yöntem	+Noun+A3sg+Pnon+Ins
+
+Türk	Türk	+Noun+Prop+A3sg+Pnon+Nom
+Türk	türk	+Noun+A3sg+Pnon+Nom
+Türk	türk	+Adj
+
+vatandaþlýðýndan	vatandaþlýk	+Noun+A3sg+P3sg+Abl
+vatandaþlýðýndan	vatandaþlýk	+Noun+A3sg+P2sg+Abl
+vatandaþlýðýndan	vatandaþ	+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+P3sg+Abl
+vatandaþlýðýndan	vatandaþ	+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+P2sg+Abl
+
+çýkmalarýn	çýk	+Verb+Pos^DB+Noun+Inf2+A3pl+Pnon+Gen
+çýkmalarýn	çýk	+Verb+Pos^DB+Noun+Inf2+A3pl+P2sg+Nom
+
+önüne	ön	+Noun+A3sg+P3sg+Dat
+önüne	ön	+Noun+A3sg+P2sg+Dat
+
+geçilecek	geç	+Verb^DB+Verb+Pass+Pos+Fut+A3sg
+geçilecek	geç	+Verb^DB+Verb+Pass+Pos^DB+Adj+FutPart+Pnon
+
+</S>	</S>
+
+<S>	<S>
+
+Ayrýca	ayrý	+Adj^DB+Adverb+Ly
+Ayrýca	ayrý	+Adj^DB+Adj+AsIf
+Ayrýca	ayrý	+Adj^DB+Noun+Zero+A3sg+Pnon+Equ
+Ayrýca	ayrýç	+Noun+A3sg+Pnon+Dat
+Ayrýca	ayrýca	+Adverb
+
+Türk	Türk	+Noun+Prop+A3sg+Pnon+Nom
+Türk	türk	+Noun+A3sg+Pnon+Nom
+Türk	türk	+Adj
+
+vatandaþlýðýndan	vatandaþlýk	+Noun+A3sg+P3sg+Abl
+vatandaþlýðýndan	vatandaþlýk	+Noun+A3sg+P2sg+Abl
+vatandaþlýðýndan	vatandaþ	+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+P3sg+Abl
+vatandaþlýðýndan	vatandaþ	+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+P2sg+Abl
+
+çýkarak	çýk	+Verb+Pos^DB+Adverb+ByDoingSo
+
+bulunduðu	bul	+Verb^DB+Verb+Pass+Pos^DB+Adj+PastPart+P3sg
+bulunduðu	bul	+Verb^DB+Verb+Pass+Pos^DB+Noun+PastPart+A3sg+P3sg+Nom
+bulunduðu	bulun	+Verb+Pos^DB+Adj+PastPart+P3sg
+bulunduðu	bulun	+Verb+Pos^DB+Noun+PastPart+A3sg+P3sg+Nom
+
+ve	ve	+Conj
+
+çalýþtýðý	çalýþ	+Verb+Pos^DB+Adj+PastPart+P3sg
+çalýþtýðý	çalýþ	+Verb+Pos^DB+Noun+PastPart+A3sg+P3sg+Nom
+
+ülkenin	ülke	+Noun+A3sg+P2sg+Gen
+ülkenin	ülke	+Noun+A3sg+Pnon+Gen
+
+vatandaþlýðýna	vatandaþlýk	+Noun+A3sg+P3sg+Dat
+vatandaþlýðýna	vatandaþlýk	+Noun+A3sg+P2sg+Dat
+vatandaþlýðýna	vatandaþ	+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+P3sg+Dat
+vatandaþlýðýna	vatandaþ	+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+P2sg+Dat
+
+geçen	geç	+Verb+Pos^DB+Adj+PresPart
+geçen	geçen	+Adj
+
+kiþilerin	kiþi	+Noun+A3pl+P2sg+Nom
+kiþilerin	kiþi	+Noun+A3pl+Pnon+Gen
+
+ödemediði	öde	+Verb+Neg^DB+Adj+PastPart+P3sg
+ödemediði	öde	+Verb+Neg^DB+Noun+PastPart+A3sg+P3sg+Nom
+
+döviz	döviz	+Noun+A3sg+Pnon+Nom
+
+girdisinin	girdi	+Noun+A3sg+P3sg+Gen
+
+de	de	+Conj
+de	de	+Verb+Pos+Imp+A2sg
+
+devamý	deva	+Noun+A3sg+P1sg+Acc
+devamý	devam	+Noun+A3sg+P3sg+Nom
+devamý	devam	+Noun+A3sg+Pnon+Acc
+
+saðlanacak	saðla	+Verb^DB+Verb+Pass+Pos+Fut+A3sg
+saðlanacak	saðla	+Verb^DB+Verb+Pass+Pos^DB+Adj+FutPart+Pnon
+saðlanacak	sað	+Noun+A3sg+Pnon+Nom^DB+Verb+Acquire+Pos+Fut+A3sg
+saðlanacak	sað	+Noun+A3sg+Pnon+Nom^DB+Verb+Acquire+Pos^DB+Adj+FutPart+Pnon
+
+</S>	</S>
+
+<S>	<S>
+
+MGK	mgk	+Noun+A3sg+Pnon+Nom
+
+Genel	Genel	+Noun+Prop+A3sg+Pnon+Nom
+Genel	genel	+Adj
+
+Sekreteri	sekreter	+Noun+A3sg+Pnon+Acc
+Sekreteri	sekreter	+Noun+A3sg+P3sg+Nom
+
+Orgeneral	orgeneral	+Noun+A3sg+Pnon+Nom
+
+Ýlhan	ilhan	+Noun+A3sg+Pnon+Nom
+Ýlhan	Ýlhan	+Noun+Prop+A3sg+Pnon+Nom
+
+Kýlýç	Kýlýç	+Noun+Prop+A3sg+Pnon+Nom
+Kýlýç	kýlýç	+Noun+A3sg+Pnon+Nom
+
+ile	il	+Noun+A3sg+Pnon+Dat
+ile	ile	+Conj
+ile	ile	+Postp+PCNom
+
+beraberindeki	beraber	+Adj^DB+Noun+Zero+A3sg+P3sg+Loc^DB+Adj+Rel
+beraberindeki	beraber	+Adj^DB+Noun+Zero+A3sg+P2sg+Loc^DB+Adj+Rel
+beraberindeki	beraber	+Postp+PCIns^DB+Noun+Zero+A3sg+P3sg+Loc^DB+Adj+Rel
+beraberindeki	beraber	+Postp+PCIns^DB+Noun+Zero+A3sg+P2sg+Loc^DB+Adj+Rel
+
+üst	üst	+Adj
+üst	üst	+Noun+A3sg+Pnon+Nom
+
+düzey	düzey	+Noun+A3sg+Pnon+Nom
+
+askeri	asker	+Noun+A3sg+Pnon+Acc
+askeri	asker	+Noun+A3sg+P3sg+Nom
+askeri	askeri	+Adj
+
+yetkililerin	yetkili	+Noun+A3pl+P2sg+Nom
+yetkililerin	yetkili	+Noun+A3pl+Pnon+Gen
+yetkililerin	yetki	+Noun+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3pl+P2sg+Nom
+yetkililerin	yetki	+Noun+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3pl+Pnon+Gen
+
+geçtiðimiz	geç	+Verb+Pos^DB+Adj+PastPart+P1pl
+geçtiðimiz	geç	+Verb+Pos^DB+Noun+PastPart+A3sg+P1pl+Nom
+
+ay	ay	+Interj
+ay	ay	+Noun+A3sg+Pnon+Nom
+ay	ay	+Verb+Pos+Imp+A2sg
+
+içinde	iç	+Noun+A3sg+P3sg+Loc
+içinde	iç	+Noun+A3sg+P2sg+Loc
+
+Avusturalya'ya	Avusturalya	+Noun+Prop+A3sg+Pnon+Dat
+
+yaptýklarý	yap	+Verb+Pos^DB+Adj+PastPart+P3pl
+yaptýklarý	yap	+Verb+Pos^DB+Noun+PastPart+A3pl+P3pl+Nom
+yaptýklarý	yap	+Verb+Pos^DB+Noun+PastPart+A3sg+P3pl+Nom
+yaptýklarý	yap	+Verb+Pos^DB+Noun+PastPart+A3pl+P3sg+Nom
+
+ziyaret	ziyaret	+Noun+A3sg+Pnon+Nom
+
+sýrasýnda	sýra	+Noun+A3sg+P3sg+Loc
+
+da	da	+Conj
+
+bu	bu	+Det
+bu	bu	+Pron+Demons+A3sg+Pnon+Nom
+
+soruna	soru	+Noun+A3sg+P2sg+Dat
+soruna	sorun	+Noun+A3sg+Pnon+Dat
+
+deðinildi	deðin	+Verb^DB+Verb+Pass+Pos+Past+A3sg
+
+</S>	</S>
+
+<S>	<S>
+
+Bu	bu	+Det
+Bu	bu	+Pron+Demons+A3sg+Pnon+Nom
+
+ülkede	ülke	+Noun+A3sg+Pnon+Loc
+
+yaþayan	yaþa	+Verb+Pos^DB+Adj+PresPart
+
+Türklerin	türk	+Noun+A3pl+Pnon+Gen
+Türklerin	türk	+Noun+A3pl+P2sg+Nom
+
+"	"	+Punc
+
+daha	daha	+Adverb
+
+fazla	faz	+Noun+A3sg+Pnon+Ins
+fazla	fazla	+Adverb
+fazla	fazla	+Adj
+fazla	fazla	+Postp+PCAbl
+
+döviz	döviz	+Noun+A3sg+Pnon+Nom
+
+ödeyerek	öde	+Verb+Pos^DB+Adverb+ByDoingSo
+
+askerlik	askerlik	+Noun+A3sg+Pnon+Nom
+askerlik	asker	+Noun+A3sg+Pnon+Nom^DB+Adj+FitFor
+askerlik	asker	+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+Pnon+Nom
+
+hizmetini	hizmet	+Noun+A3sg+P3sg+Acc
+hizmetini	hizmet	+Noun+A3sg+P2sg+Acc
+
+yapmýþ	yap	+Verb+Pos+Narr+A3sg
+yapmýþ	yap	+Verb+Pos+Narr^DB+Adj+Zero
+
+sayýlmalarý	say	+Verb^DB+Verb+Pass+Pos^DB+Noun+Inf2+A3pl+P3sg+Nom
+sayýlmalarý	say	+Verb^DB+Verb+Pass+Pos^DB+Noun+Inf2+A3pl+Pnon+Acc
+sayýlmalarý	say	+Verb^DB+Verb+Pass+Pos^DB+Noun+Inf2+A3sg+P3pl+Nom
+sayýlmalarý	say	+Verb^DB+Verb+Pass+Pos^DB+Noun+Inf2+A3pl+P3pl+Nom
+
+"	"	+Punc
+
+yönünde	yön	+Noun+A3sg+P3sg+Loc
+yönünde	yön	+Noun+A3sg+P2sg+Loc
+
+bir	bir	+Det
+bir	bir	+Adverb
+bir	bir	+Adj
+bir	bir	+Num+Card
+
+öneriyi	öneri	+Noun+A3sg+Pnon+Acc
+
+Orgeneral	orgeneral	+Noun+A3sg+Pnon+Nom
+
+Kýlýç'a	Kýlýç	+Noun+Prop+A3sg+Pnon+Dat
+Kýlýç'a	Kýlýç	+Noun+Prop+A3sg+Pnon+Dat
+
+ilettikleri	ilet	+Verb+Pos^DB+Adj+PastPart+P3pl
+ilettikleri	ilet	+Verb+Pos^DB+Noun+PastPart+A3pl+P3pl+Nom
+ilettikleri	ilet	+Verb+Pos^DB+Noun+PastPart+A3sg+P3pl+Nom
+ilettikleri	ilet	+Verb+Pos^DB+Noun+PastPart+A3pl+P3sg+Nom
+
+öðrenildi	öðren	+Verb^DB+Verb+Pass+Pos+Past+A3sg
+
+</S>	</S>
+
+<S>	<S>
+
+Komutanlarýn	komutan	+Noun+A3pl+P2sg+Nom
+Komutanlarýn	komutan	+Noun+A3pl+Pnon+Gen
+
+da	da	+Conj
+
+bu	bu	+Det
+bu	bu	+Pron+Demons+A3sg+Pnon+Nom
+
+öneriye	öneri	+Noun+A3sg+Pnon+Dat
+
+sýcak	sýcak	+Adj
+
+baktýklarý	bak	+Verb+Pos^DB+Adj+PastPart+P3pl
+baktýklarý	bak	+Verb+Pos^DB+Noun+PastPart+A3pl+P3pl+Nom
+baktýklarý	bak	+Verb+Pos^DB+Noun+PastPart+A3sg+P3pl+Nom
+baktýklarý	bak	+Verb+Pos^DB+Noun+PastPart+A3pl+P3sg+Nom
+
+ve	ve	+Conj
+
+gerekli	gerek	+Noun+A3sg+Pnon+Nom^DB+Adj+With
+
+düzenlemeler	düzenle	+Verb+Pos^DB+Noun+Inf2+A3pl+Pnon+Nom
+
+için	iç	+Noun+A3sg+P2sg+Nom
+için	iç	+Noun+A3sg+Pnon+Gen
+için	iç	+Verb+Pos+Imp+A2pl
+için	için	+Postp+PCNom
+
+çalýþtýklarý	çalýþ	+Verb+Pos^DB+Adj+PastPart+P3pl
+çalýþtýklarý	çalýþ	+Verb+Pos^DB+Noun+PastPart+A3pl+P3pl+Nom
+çalýþtýklarý	çalýþ	+Verb+Pos^DB+Noun+PastPart+A3sg+P3pl+Nom
+çalýþtýklarý	çalýþ	+Verb+Pos^DB+Noun+PastPart+A3pl+P3sg+Nom
+
+bildirildi	bil	+Verb^DB+Verb+Caus^DB+Verb+Pass+Pos+Past+A3sg
+
+</S>	</S>
+
+</DOC>	</DOC>
+
+<DOC>	<DOC>
+
+<TITLE>	<TITLE>
+
+<S>	<S>
+
+21.	21	+Num+Ord
+
+yüzyýl	yüzyýl	+Noun+A3sg+Pnon+Nom
+
+demokraside	demokrasi	+Noun+A3sg+Pnon+Loc
+
+çað	çað	+Noun+A3sg+Pnon+Nom
+çað	çað	+Verb+Pos+Imp+A2sg
+
+açacak	aç	+Verb+Pos+Fut+A3sg
+açacak	aç	+Verb+Pos^DB+Adj+FutPart+Pnon
+açacak	açacak	+Noun+A3sg+Pnon+Nom
+
+</S>	</S>
+
+</TITLE>	</TITLE>
+
+<S>	<S>
+
+Ýnsanlýðýn	insan	+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+P2sg+Nom
+Ýnsanlýðýn	insan	+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+Pnon+Gen
+
+tarihindeki	tarih	+Noun+A3sg+P3sg+Loc^DB+Adj+Rel
+tarihindeki	tarih	+Noun+A3sg+P2sg+Loc^DB+Adj+Rel
+tarihindeki	tarihi	+Adj^DB+Noun+Zero+A3sg+P2sg+Loc^DB+Adj+Rel
+
+gelecek	gel	+Verb+Pos+Fut+A3sg
+gelecek	gel	+Verb+Pos^DB+Adj+FutPart+Pnon
+gelecek	gelecek	+Noun+A3sg+Pnon+Nom
+gelecek	gelecek	+Adj
+
+büyük	büyük	+Adj
+
+deðiþme	deð	+Verb+Recip+Neg+Imp+A2sg
+deðiþme	deð	+Verb+Recip+Pos^DB+Noun+Inf2+A3sg+Pnon+Nom
+deðiþme	deðiþ	+Verb+Pos^DB+Noun+Inf2+A3sg+Pnon+Nom
+deðiþme	deðiþ	+Verb+Neg+Imp+A2sg
+
+ne	ne	+Conj
+ne	ne	+Adverb
+ne	ne	+Adj
+ne	ne	+Pron+Ques+A3sg+Pnon+Nom
+
+ekonomi	ekonomi	+Noun+A3sg+Pnon+Nom
+
+,	,	+Punc
+
+ne	ne	+Conj
+ne	ne	+Adverb
+ne	ne	+Adj
+ne	ne	+Pron+Ques+A3sg+Pnon+Nom
+
+elektronik	elektronik	+Adj
+
+,	,	+Punc
+
+ne	ne	+Conj
+ne	ne	+Adverb
+ne	ne	+Adj
+ne	ne	+Pron+Ques+A3sg+Pnon+Nom
+
+de	de	+Conj
+de	de	+Verb+Pos+Imp+A2sg
+
+askerlikle	askerlik	+Noun+A3sg+Pnon+Ins
+askerlikle	asker	+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+Pnon+Ins
+
+ilgili	ilgili	+Noun+A3sg+Pnon+Nom
+ilgili	ilgi	+Noun+A3sg+Pnon+Nom^DB+Adj+With
+
+olacak	ol	+Verb+Pos+Fut+A3sg
+olacak	ol	+Verb+Pos^DB+Adj+FutPart+Pnon
+
+</S>	</S>
+
+<S>	<S>
+
+Gelecek	gel	+Verb+Pos+Fut+A3sg
+Gelecek	gel	+Verb+Pos^DB+Adj+FutPart+Pnon
+Gelecek	gelecek	+Adj
+Gelecek	gelecek	+Noun+A3sg+Pnon+Nom
+
+yüzyýl	yüzyýl	+Noun+A3sg+Pnon+Nom
+
+,	,	+Punc
+
+nihayet	nihayet	+Adverb
+nihayet	nihayet	+Noun+A3sg+Pnon+Nom
+
+,	,	+Punc
+
+demokrasi	demokrasi	+Noun+A3sg+Pnon+Nom
+
+fikrinin	fikir	+Noun+A3sg+P3sg+Gen
+fikrinin	fikir	+Noun+A3sg+P2sg+Gen
+fikrinin	fikri	+Adj^DB+Noun+Zero+A3sg+Pnon+Gen
+fikrinin	fikri	+Adj^DB+Noun+Zero+A3sg+P2sg+Gen
+
+tamamýna	tamam	+Noun+A3sg+P3sg+Dat
+tamamýna	tamam	+Noun+A3sg+P2sg+Dat
+
+erdiðine	er	+Verb+Pos^DB+Noun+PastPart+A3sg+P3sg+Dat
+erdiðine	er	+Verb+Pos^DB+Noun+PastPart+A3sg+P2sg+Dat
+
+tanýk	tanýk	+Noun+A3sg+Pnon+Nom
+
+olabilir	ol	+Verb+Pos^DB+Verb+Able+Aor+A3sg
+olabilir	ol	+Verb+Pos^DB+Verb+Able+Aor^DB+Adj+Zero
+
+</S>	</S>
+
+<S>	<S>
+
+Bugün	bugün	+Noun+A3sg+Pnon+Nom
+
+sokaktaki	sokak	+Noun+A3sg+Pnon+Loc^DB+Adj+Rel
+
+yurttaþ	yurttaþ	+Noun+A3sg+Pnon+Nom
+
+,	,	+Punc
+
+iki	iki	+Num+Card
+
+kuþak	kuþak	+Noun+A3sg+Pnon+Nom
+
+önceki	önce	+Noun+A3sg+Pnon+Nom^DB+Adj+Rel
+önceki	önce	+Postp+PCAbl^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Adj+Rel
+
+insandan	insan	+Noun+A3sg+Pnon+Abl
+
+farklý	fark	+Noun+A3sg+Pnon+Nom^DB+Adj+With
+
+olarak	ol	+Verb+Pos^DB+Adverb+ByDoingSo
+
+,	,	+Punc
+
+parlamentoya	parlamento	+Noun+A3sg+Pnon+Dat
+
+gönderdiði	gönder	+Verb+Pos^DB+Adj+PastPart+P3sg
+gönderdiði	gönder	+Verb+Pos^DB+Noun+PastPart+A3sg+P3sg+Nom
+
+temsilcinin	temsilci	+Noun+A3sg+P2sg+Gen
+temsilcinin	temsilci	+Noun+A3sg+Pnon+Gen
+temsilcinin	temsil	+Noun+A3sg+Pnon+Nom^DB+Noun+Agt+A3sg+P2sg+Gen
+temsilcinin	temsil	+Noun+A3sg+Pnon+Nom^DB+Noun+Agt+A3sg+Pnon+Gen
+
+kendisinden	kendi	+Pron+Reflex+A3sg+P3sg+Abl
+
+daha	daha	+Adverb
+
+üstün	üs	+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Past+A2sg
+üstün	üstün	+Adj
+üstün	üst	+Noun+A3sg+P2sg+Nom
+üstün	üst	+Noun+A3sg+Pnon+Gen
+
+niteliklere	nitelik	+Noun+A3pl+Pnon+Dat
+
+sahip	sahip	+Noun+A3sg+Pnon+Nom
+
+olduðuna	ol	+Verb+Pos^DB+Noun+PastPart+A3sg+P3sg+Dat
+olduðuna	ol	+Verb+Pos^DB+Noun+PastPart+A3sg+P2sg+Dat
+
+inanmýyor	inan	+Verb+Neg+Prog1+A3sg
+
+</S>	</S>
+
+<S>	<S>
+
+Yönetenler	yönet	+Verb+Pos^DB+Adj+PresPart^DB+Noun+Zero+A3pl+Pnon+Nom
+
+ve	ve	+Conj
+
+yönetilenler	yönet	+Verb^DB+Verb+Pass+Pos^DB+Adj+PresPart^DB+Noun+Zero+A3pl+Pnon+Nom
+
+ayrýmý	ayrý	+Adj^DB+Noun+Zero+A3sg+P1sg+Acc
+ayrýmý	ayrým	+Noun+A3sg+P3sg+Nom
+ayrýmý	ayrým	+Noun+A3sg+Pnon+Acc
+
+artýk	artýk	+Adverb
+artýk	artýk	+Noun+A3sg+Pnon+Nom
+artýk	artýk	+Adj
+
+ortadan	orta	+Noun+A3sg+Pnon+Abl
+
+kaldýrýlabilir	kaldýr	+Verb^DB+Verb+Pass+Pos^DB+Verb+Able+Aor+A3sg
+kaldýrýlabilir	kaldýr	+Verb^DB+Verb+Pass+Pos^DB+Verb+Able+Aor^DB+Adj+Zero
+kaldýrýlabilir	kal	+Verb^DB+Verb+Caus^DB+Verb+Pass+Pos^DB+Verb+Able+Aor+A3sg
+kaldýrýlabilir	kal	+Verb^DB+Verb+Caus^DB+Verb+Pass+Pos^DB+Verb+Able+Aor^DB+Adj+Zero
+
+</S>	</S>
+
+<S>	<S>
+
+Halkýn	halk	+Noun+A3sg+P2sg+Nom
+Halkýn	halk	+Noun+A3sg+Pnon+Gen
+
+kendi	kendi	+Pron+Reflex+A3sg+P3sg+Nom
+
+kendini	kendi	+Pron+Reflex+A3sg+P3sg+Acc
+kendini	kendi	+Pron+Reflex+A2sg+P2sg+Acc
+
+yönetmesi	yönet	+Verb+Pos^DB+Noun+Inf2^DB+Adj+Almost
+yönetmesi	yönet	+Verb+Pos^DB+Noun+Inf2+A3sg+P3sg+Nom
+
+fikri	fikir	+Noun+A3sg+P3sg+Nom
+fikri	fikir	+Noun+A3sg+Pnon+Acc
+fikri	fikri	+Adj
+
+,	,	+Punc
+
+artýk	artýk	+Adverb
+artýk	artýk	+Noun+A3sg+Pnon+Nom
+artýk	artýk	+Adj
+
+gerçekten	gerçekten	+Adverb
+gerçekten	gerçek	+Noun+A3sg+Pnon+Abl
+
+halkýn	halk	+Noun+A3sg+P2sg+Nom
+halkýn	halk	+Noun+A3sg+Pnon+Gen
+
+kendi	kendi	+Pron+Reflex+A3sg+P3sg+Nom
+
+kendini	kendi	+Pron+Reflex+A3sg+P3sg+Acc
+kendini	kendi	+Pron+Reflex+A2sg+P2sg+Acc
+
+yönetmesi	yönet	+Verb+Pos^DB+Noun+Inf2^DB+Adj+Almost
+yönetmesi	yönet	+Verb+Pos^DB+Noun+Inf2+A3sg+P3sg+Nom
+
+anlamýný	anlam	+Noun+A3sg+P3sg+Acc
+anlamýný	anlam	+Noun+A3sg+P2sg+Acc
+
+kazanabilir	kazan	+Verb+Pos^DB+Verb+Able+Aor+A3sg
+kazanabilir	kazan	+Verb+Pos^DB+Verb+Able+Aor^DB+Adj+Zero
+
+</S>	</S>
+
+</DOC>	</DOC>
+

@@ -1,0 +1,54 @@
+** Message: $Id: dlist.c,v 2.10 2004/10/28 16:46:53 dyuret Exp $
+** Message: ==> READING
+** Message: Reading data from stdin (1 dot = 10000 instances)
+......................
+** Message: Read 224920 instances.
+** Message: ==> TRAINING
+** Message: Training on 149440 instances (1 dot = 100 rules)
+.................................................................................
+** Message: Got 8002 rules out of 2943749 candidates.
+** Message: Training set performance:
+** Message: nrules:	corr:	incorr:	percent:
+** Message: 8002	148659	781	99.48%
+** Message: ==> VALIDATION
+** Message: Validating on 37788 instances (1 dot = 1000 instances)
+......................................
+** Message: Best number of rules to use: 2318
+** Message: nrules:	corr:	incorr:	percent:
+** Message: 2318	34949	2839	92.49%
+** Message: 8002	34812	2976	92.12%
+** Message: ==> TESTING
+** Message: Testing on 37692 instances (1 dot = 1000 instances)
+......................................
+** Message: nrules:	corr:	incorr:	percent:
+** Message: 2318	35018	2674	92.91%
+** Message: 974	34678	3014	92.00%
+** Message: 554	34300	3392	91.00%
+** Message: 376	33924	3768	90.00%
+** Message: 269	33549	4143	89.01%
+** Message: 203	33178	4514	88.02%
+** Message: 158	32802	4890	87.03%
+** Message: 125	32430	5262	86.04%
+** Message: 100	32045	5647	85.02%
+** Message: 81	31681	6011	84.05%
+** Message: 67	31310	6382	83.07%
+** Message: 55	30934	6758	82.07%
+** Message: 46	30567	7125	81.10%
+** Message: 38	30166	7526	80.03%
+** Message: 32	29798	7894	79.06%
+** Message: 28	29484	8208	78.22%
+** Message: 23	29059	8633	77.10%
+** Message: 19	28717	8975	76.19%
+** Message: 15	28270	9422	75.00%
+** Message: 13	27962	9730	74.19%
+** Message: 11	27652	10040	73.36%
+** Message: 9	27272	10420	72.35%
+** Message: 7	26856	10836	71.25%
+** Message: 6	26572	11120	70.50%
+** Message: 5	26167	11525	69.42%
+** Message: 4	25462	12230	67.55%
+** Message: 3	24113	13579	63.97%
+** Message: 2	22680	15012	60.17%
+** Message: 1	20274	17418	53.79%
+** Message: ==> WRITING
+** Message: Wrote 2318 rules to stdout.

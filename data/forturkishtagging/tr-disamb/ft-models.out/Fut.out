@@ -1,0 +1,52 @@
+1
+0 R1=+lAn
+0 W=~gelecek
+0 R1==bir
+0 R1=+lArI
+1 R1=<S>
+0 R1=+lArIn
+0 R1=+DA
+0 R1=+DAr
+1 L1=+ArI
+0 W==yiyecek
+0 W==oluþturacak
+0 L1=+DAfA
+0 W=+AlDACAK
+0 R1=+BIr
+1 W=+ACAKIm
+0 W==edecekler
+1 R1=+DA R2=<S>
+0 W==seçilecek
+0 W==giyecek
+0 R1=+AmA
+0 W=+DDIrACAK
+1 W=+lAyABIlACAK
+0 R1=<S> W=+ArACAKlAr
+1 R1==bir L2=="
+0 L1=+AnmAsInI
+0 L1=+DmAn
+0 L1=+IlIBI
+0 L1=~bunda
+0 R1=+IKlA
+0 R1=+IrK
+0 R2=+AzIlArI
+0 R2=+IrlI
+0 W=+ABADACAK
+0 R1=+lAnlAr
+0 R1=+KlI
+1 W=+AnAmAyACAK
+0 L1=+AnAK
+1 L1==günü
+1 R1=+nDA
+1 L1=+sInDA
+1 W=+ArCAKlAþACAK
+1 L1=+mAyA
+1 R1=+lArIn L2=+m
+1 R1==bir W=+IrABIlACAK
+0 R1=<S> W=+lAþDIrACAK
+0 L1=+AmADI
+0 L1=+ArDImCIlArInI
+0 L1=+AsImInA
+0 L1=+AsInInA
+0 L1=+BolCIlArA
+0 L1=+ByA'DAn

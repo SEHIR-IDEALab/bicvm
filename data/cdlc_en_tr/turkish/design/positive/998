@@ -1,0 +1,17 @@
+Bir kuş gibi uçmak insanoğlunun bir hayali. Kuşlar çok çevik hayvanlardır. Uçmak için dönüş elemanlarına ihtiyaçları yoktur, sadece kanatlarını çırparak uçarlar. Bu nedenle biz kuşları inceledik, ve güçlü, hafif, kendi kendine sadece kanatlarını kullanarak uçmasını sağlayacak üstün aerodinamik niteliklere sahip bir model yapmaya çalıştık.
+Bunun için deniz üzerinde özgürce, daireler çizerek uçan Kuzey Gümüş martısını bir örnek model olarak kullanmaktan daha iyi ne olabilirdi ki? Bu nedenle planör inşaatı alanında ve aerodinamik alanındaki uzmanlardan oluşan bir takım biraraya getirdik. Ve görev, kapalı bir alanda başınızın üzerinden uçabilecek son derece hafif bir model yaratmaya çalışmaktı. O yüzden ilerleyen dakikalarda dikkatli olun. Bu da bir sorun teşkil ediyordu: robotu, yere düştüğünde kimsenin zarar görmeyeceği kadar hafif yapmak.
+Peki bütün bunları neden yaptık? Biz otomasyon alanında çalışan bir şirketiz, ve çok hafif gövdeler yapmak istiyoruz çünkü enerjiyi daha verimli kullanıyorlar. Basınç ve hava akışı olayları hakkında daha çok şey öğrenmek istiyoruz.
+Şimdi sizden kemerlerinizi bağlamanızı ve şapkalarınızı takmanızı istiyorum. Belki Smartbird'ü uçurmayı deneyebiliriz. Teşekkürler.
+(Alkışlar)
+(Alkışlar)
+(Alkışlar)
+Şimdi SmartBird'e daha yakından bakabiliriz. İşte bu içindeki iskelet. Kanat genişliği yaklaşık iki metre. Uzunluğu 1.6 metre, ve ağırlığı sadece 450 gram. Ve tamamiyle karbon lifinden yapıldı. Ortasında bir motor var, ve ayrıca içinde bir vites var. Ve biz bu vitesi motor devrini iletmek için kullanıyoruz. Motorun içerisinde, üç adet Hall sensörü var, böylece kanadın tam olarak nerede olduğunu biliyoruz. Ve şimdi eğer kanatları yukarı ve aşağı çırparsak, bir kuş gibi uçurtma olasılığımız var. Aşağı inerseniz, geniş bir itici kuvvet alanına sahip olursunuz. Yukarı çıkarsanız, kanatlar o kadar geniş değil, ve kalkması daha kolay.
+Yaptığımız bir sonraki şey, ya da hallettiğimiz sorun bu hareketi düzenlemekti. Onu döndürmeli, aşağı ve yukarı hareket ettirmeliyiz. Çift kanatlara sahibiz. Çift kanat ile, üst kanatta kaldırma kuvvetini, alt kanatta itici kuvvetini elde ediyoruz. Ayrıca, aerodinamik verimliliği nasıl ölçtüğümüzü görüyoruz. Elektromekanik verimlilik hakkında bilgimiz vardı, bu sayede aerodinamik verimliliği hesaplayabiliriz. Böylece, pasif dönmeden, aktif dönmeye yükseliyor, yüzde 30'dan yüzde 80'e.
+Bir sonraki yapmamız gereken şey, tüm yapıyı kontrol etmek ve düzenlemek. Ancak kontrol ederek ve düzenleyerek, o aerodinamik verimliliği elde edersiniz. Toplam enerji tüketimi, kalkışta yaklaşık 25 watt ve uçuşta 16 ile 18 watt arasında. Teşekkürler.
+(Alkışlar)
+Bruno Giussani: Markus, bence bir kez daha uçurtmalıyız.
+Markus Fischer: Evet, tabi.
+(Kahkahalar)
+(Hayranlık nidaları)
+(Tezahürat)
+(Alkışlar)

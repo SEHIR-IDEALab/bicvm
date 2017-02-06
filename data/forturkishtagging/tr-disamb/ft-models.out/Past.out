@@ -1,0 +1,32 @@
+1
+0 W=+yDIn
+0 W=~yardým
+0 W=+mAnDI
+0 W=+fAnDIm
+0 W=~yedi
+0 W=+sDIn
+0 W=+fAnDI
+0 W==hattý
+0 W==üstü
+0 W==kanadý
+0 W==kaydý
+0 W=+ADDIn
+0 W=~sandýk
+0 W=+CzmAnDIlAr
+0 W==uydu
+0 W=~ferdi
+1 W=+mAnDI W=LOWER
+1 W=~yedi R1=<S>
+0 W=+AoDDI
+0 W==ardý
+0 W==mistik
+0 R2=+sI'nDA
+0 W=+ArnomIrDIn
+0 W=+DIDDI
+0 W=+fAnDIlAr
+0 W=+oInDI
+0 W==bendi
+0 W==didik
+0 R1==Efe
+0 W==kastý
+0 W==trendi

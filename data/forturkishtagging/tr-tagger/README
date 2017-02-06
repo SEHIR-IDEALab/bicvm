@@ -1,0 +1,5 @@
+The command line for the tagger is in the Makefile.  It uses the
+"lookup" executable which is part of the Xerox Finite State software
+available from:
+
+http://www.xrce.xerox.com/competencies/content-analysis/fst
